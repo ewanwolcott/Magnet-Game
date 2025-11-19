@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class Playermovement : MonoBehaviour
 {
     [Header("Player Component Refrences")]
     [SerializeField] Rigidbody2D rb;
@@ -15,7 +15,14 @@ public class NewMonoBehaviourScript : MonoBehaviour
     [SerializeField] Transform groundCheck;
 
     private float horizontal;
-
+    public int polarity;
+    public bool magnetised;
+    private void Awake()
+    {
+        {
+            
+        }
+    }
     private void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
@@ -29,7 +36,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     public void Jump(InputAction.CallbackContext context)
     {
-        if(context.performed && IsGrounded())
+        if (context.performed && IsGrounded())
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
         }
