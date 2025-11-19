@@ -7,7 +7,8 @@ public class Playermovement : MonoBehaviour
     [SerializeField] Rigidbody2D rb;
 
     [Header("Player Settings")]
-    [SerializeField] float speed;
+    public float speed;
+    public float maxSpeed;
     [SerializeField] float jumpingPower;
 
     [Header("Grounding")]

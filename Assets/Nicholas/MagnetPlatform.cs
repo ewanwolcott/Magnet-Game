@@ -5,7 +5,7 @@ using UnityEngine;
 public class MagnetPlatform : MonoBehaviour
 {
     public int polarity;
-    public float attractionForce = 2f;
+    public float attractionForce;
     private List<Rigidbody2D> attractedObjects = new List<Rigidbody2D>();
 
     public void FixedUpdate()
@@ -14,8 +14,23 @@ public class MagnetPlatform : MonoBehaviour
         {
             if (rb != null)
             {
-                Vector2 direction = (transform.position - rb.transform.position).normalized;
-                rb.AddForce(direction * attractionForce);
+                Vector2 direction = (transform.position - rb.transform.position);
+                float distance = Mathf.Sqrt( Mathf.Pow(2,transform.position.x - rb.transform.position.x) + Mathf.Pow(2, transform.position.y - rb.transform.position.y));
+                if (distance >= 0 && distance <= 3) {
+                    rb.AddForce(direction * attractionForce * 6);
+                }
+                else if (distance > 3 && distance <= 5)
+                {
+                    rb.AddForce(direction * attractionForce * 4);
+                }
+                else if (distance > 5 && distance <= 7)
+                {
+                    rb.AddForce(direction * attractionForce * 2);
+                }
+                else if (distance > 7 && distance <= 9)
+                {
+                    rb.AddForce(direction * attractionForce);
+                }
             }
         }
     }
