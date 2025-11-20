@@ -1156,6 +1156,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1676725437}
+  sr: {fileID: 1676725439}
   speed: 8
   maxSpeed: 0
   jumpingPower: 5
