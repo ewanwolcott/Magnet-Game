@@ -1,10 +1,12 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UIElements;
 
 public class Playermovement : MonoBehaviour
 {
     [Header("Player Component Refrences")]
     [SerializeField] Rigidbody2D rb;
+    [SerializeField] SpriteRenderer sr;
 
     [Header("Player Settings")]
     public float speed;
@@ -16,17 +18,31 @@ public class Playermovement : MonoBehaviour
     [SerializeField] Transform groundCheck;
 
     private float horizontal;
+    private Color32 polarityColor;
     public int polarity;
     public bool magnetised;
-    private void Awake()
-    {
-        {
-            
-        }
-    }
     private void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+        sr.color = polarityColor;
+    }
+    private void Update()
+    {
+        if (Input.GetMouseButton(0)) // when left mouse button down
+        {
+            polarity = 1;
+            polarityColor = new Color32(255,0,0,255);
+        }
+        else if (Input.GetMouseButton(1)) // when right mouse button is down
+        {
+            polarity = -1;
+            polarityColor = new Color32(0, 0, 255, 255);
+        }
+        else
+        {
+            polarity = 0;
+            polarityColor = new Color32(255, 255, 255, 255);
+        }
     }
 
     #region PLAYER_CONTROLS
@@ -43,6 +59,7 @@ public class Playermovement : MonoBehaviour
         }
     }
 
+    
 
     private bool IsGrounded()
     {

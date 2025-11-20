@@ -1152,16 +1152,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 1676725434}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 17ba363a7f19a7a468a86092067cf997, type: 3}
+  m_Script: {fileID: 11500000, guid: a1fb2521e3085ca42a667adce5db6456, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1676725437}
   speed: 8
+  maxSpeed: 0
   jumpingPower: 5
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
   groundCheck: {fileID: 1974231634}
+  polarity: 0
+  magnetised: 0
 --- !u!114 &1676725436
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1219,6 +1222,14 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: d05002aa-e2e2-416c-9f6d-c0d907aca108
     m_ActionName: 'Player/Jump[/Keyboard/space]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 710088c5-0ab2-400e-9d0d-abeb92c2383c
+    m_ActionName: 'Player/Red[/Mouse/leftButton]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: fd528049-fc77-4427-af61-cd3416c1eb6a
+    m_ActionName: 'Player/Blue[/Mouse/rightButton]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
