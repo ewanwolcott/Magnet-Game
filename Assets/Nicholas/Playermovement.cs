@@ -5,12 +5,12 @@ using UnityEngine.UIElements;
 public class Playermovement : MonoBehaviour
 {
     [Header("Player Component Refrences")]
-    [SerializeField] Rigidbody2D rb;
+    public  Rigidbody2D rb;
     [SerializeField] SpriteRenderer sr;
 
     [Header("Player Settings")]
-    public float speed;
-    public float maxSpeed;
+    public float acceleration;
+    public float topSpeed;
     [SerializeField] float jumpingPower;
 
     [Header("Grounding")]
@@ -23,8 +23,16 @@ public class Playermovement : MonoBehaviour
     public bool magnetised;
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+        rb.AddForceX(horizontal * acceleration);
         sr.color = polarityColor;
+        if(rb.linearVelocityX < -topSpeed)
+        {
+            rb.linearVelocityX = -topSpeed;
+        }
+        else if(rb.linearVelocityX > topSpeed)
+        {
+            rb.linearVelocityX = topSpeed;
+        }
     }
     private void Update()
     {
