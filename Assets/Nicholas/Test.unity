@@ -584,11 +584,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0f68f9c1e3146145b50d66fdfd976da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sr: {fileID: 412375218}
   polarity: 1
-  attractionForce: 4
-  distance1: 2
-  distance2: 3
-  distance3: 4
+  attractionForce: 8
+  distance1: 3
+  distance2: 4
+  distance3: 5
   distance4: 6
 --- !u!1 &470182427
 GameObject:
@@ -1416,11 +1417,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0f68f9c1e3146145b50d66fdfd976da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sr: {fileID: 1726801066}
   polarity: -1
   attractionForce: -4
-  distance1: 2
-  distance2: 3
-  distance3: 4
+  distance1: 3
+  distance2: 4
+  distance3: 5
   distance4: 6
 --- !u!61 &1726801064
 BoxCollider2D:
