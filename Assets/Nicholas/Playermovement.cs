@@ -20,7 +20,6 @@ public class Playermovement : MonoBehaviour
     private float horizontal;
     private Color32 polarityColor;
     public int polarity;
-    public bool magnetised;
     private void FixedUpdate()
     {
         rb.AddForceX(horizontal * acceleration);
