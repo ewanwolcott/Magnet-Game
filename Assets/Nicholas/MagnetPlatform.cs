@@ -48,12 +48,12 @@ public class MagnetPlatform : MonoBehaviour
     {
         if(polarity == 1)
         {
-            attractionForce = 1;
+            attractionForce  = Mathf.Abs(attractionForce);
             polarityColor = new Color32(0, 0, 255, 255);
         }
         else if(polarity == -1)
         {
-            attractionForce = -1;
+            attractionForce = -Mathf.Abs(attractionForce);
             polarityColor = new Color32(255, 0, 0, 255);
         }
         else
@@ -68,8 +68,11 @@ public class MagnetPlatform : MonoBehaviour
         Playermovement pm = collision.GetComponent<Playermovement>();
         if (pm != null && !attractedObjects.Contains(pm))
         {
-            pm.magnetised = true;
             attractedObjects.Add(pm);
+            if(polarity == 0)
+            {
+                pm.rb.gravityScale = 0;
+            }
         }
 
     }
@@ -80,9 +83,9 @@ public class MagnetPlatform : MonoBehaviour
             Playermovement pm = collision.GetComponent<Playermovement>();
             if (pm != null)
             {
-                pm.magnetised = false;
                 attractedObjects.Remove(pm);
             }
+            pm.rb.gravityScale = 0.8f;
         }
     }
 }
