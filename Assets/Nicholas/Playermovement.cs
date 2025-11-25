@@ -24,6 +24,7 @@ public class Playermovement : MonoBehaviour
     private void FixedUpdate()
     {
         rb.AddForceX(horizontal * acceleration);
+
         sr.color = polarityColor;
         if(rb.linearVelocityX < -topSpeed)
         {
