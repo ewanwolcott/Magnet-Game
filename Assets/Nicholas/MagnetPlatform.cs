@@ -85,7 +85,7 @@ public class MagnetPlatform : MonoBehaviour
             {
                 attractedObjects.Remove(pm);
             }
-            pm.rb.gravityScale = 0.5f;
+            pm.rb.gravityScale = 0.8f;
         }
     }
 }
