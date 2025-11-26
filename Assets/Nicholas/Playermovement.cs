@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
@@ -20,8 +21,20 @@ public class Playermovement : MonoBehaviour
     private float horizontal;
     private Color32 polarityColor;
     public int polarity;
+
+    private bool canDash = true;
+    private bool isDashing;
+    public float dashingPower = 24f;
+    private float dashingTime = 0.2f;
+    private float dashingCooldown = 1f;
+    private float direction;
+
     private void FixedUpdate()
     {
+        if (isDashing)
+        {
+            return;
+        }
         rb.AddForceX(horizontal * acceleration);
 
         sr.color = polarityColor;
@@ -33,6 +46,7 @@ public class Playermovement : MonoBehaviour
         {
             rb.linearVelocityX = topSpeed;
         }
+
     }
     private void Update()
     {
@@ -57,6 +71,18 @@ public class Playermovement : MonoBehaviour
     public void Move(InputAction.CallbackContext context)
     {
         horizontal = context.ReadValue<Vector2>().x;
+        if(horizontal != 0)
+        {
+            direction = horizontal;
+        }
+    }
+
+    public void Dash(InputAction.CallbackContext context)
+    {
+        if(canDash && context.performed)
+        {
+            StartCoroutine(Dash());
+        }
     }
 
     public void Jump(InputAction.CallbackContext context)
@@ -76,4 +102,22 @@ public class Playermovement : MonoBehaviour
 
 
     #endregion
+
+    private IEnumerator Dash ()
+    {
+        canDash = false;
+        isDashing = true;
+        float originalGravity = rb.gravityScale;
+        rb.gravityScale = 0f;
+        rb.linearVelocity = new Vector2(direction * dashingPower, 0f);
+        yield return new WaitForSeconds(dashingTime);
+        rb.gravityScale = originalGravity;
+        isDashing = false;
+        yield return new WaitForSeconds(dashingCooldown);
+        canDash = true;
+    }
+
+
+
+
 }

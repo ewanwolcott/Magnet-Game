@@ -1857,7 +1857,6 @@ MonoBehaviour:
     m_Bits: 64
   groundCheck: {fileID: 1974231634}
   polarity: 0
-  dashingPower: 24
 --- !u!114 &1676725436
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1923,22 +1922,6 @@ MonoBehaviour:
       m_Calls: []
     m_ActionId: fd528049-fc77-4427-af61-cd3416c1eb6a
     m_ActionName: 'Player/Blue[/Mouse/rightButton]'
-  - m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1676725435}
-        m_TargetAssemblyTypeName: Playermovement, Assembly-CSharp
-        m_MethodName: Dash
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_ActionId: 214a7835-7276-4d59-a161-4f1975cf15eb
-    m_ActionName: 'Player/Dash[/Keyboard/leftShift]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
