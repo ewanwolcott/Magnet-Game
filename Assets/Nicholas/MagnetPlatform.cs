@@ -2,10 +2,11 @@ using System.Collections.Generic;
 using Unity.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class MagnetPlatform : MonoBehaviour
 {
-    [SerializeField] SpriteRenderer sr;
+    [SerializeField] Tilemap tm;
 
     public int polarity;
     public float attractionForce;
@@ -49,7 +50,7 @@ public class MagnetPlatform : MonoBehaviour
         if(polarity == 1)
         {
             attractionForce  = Mathf.Abs(attractionForce);
-            polarityColor = new Color32(0, 0, 255, 255);
+            polarityColor = new Color32(0, 130, 255, 255);
         }
         else if(polarity == -1)
         {
@@ -61,7 +62,7 @@ public class MagnetPlatform : MonoBehaviour
             attractionForce = 0;
             polarityColor = new Color32(255, 0, 255, 255);
         }
-        sr.color = polarityColor;
+        tm.color = polarityColor;
     }
     public void OnTriggerEnter2D(Collider2D collision)
     {
