@@ -111,17 +111,10 @@ public class Playermovement : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
         }
     }
-
-    
-
     private bool IsGrounded()
     {
         return Physics2D.OverlapCapsule(groundCheck.position, new Vector2(1f, 0.2f), CapsuleDirection2D.Horizontal, 0, groundLayer);
     }
-
-
-    #endregion
-
     private IEnumerator Dash ()
     {
         canDash = false;
@@ -135,8 +128,13 @@ public class Playermovement : MonoBehaviour
         yield return new WaitForSeconds(dashingCooldown);
         canDash = true;
     }
-
-
+    public void Interact(InputAction.CallbackContext context)
+    {
+        if (context.ReadValue<float>() == 0)
+            return
+    ;   Physics2D.BoxCast(transform.position, new Vector2(1.5f, 1.5f), 0, Vector2.zero);
+    }
+    #endregion
 
 
 }
