@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class TurnOffObj : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    // put this script on a object to turn off the object on game start
     void Start()
     {
         gameObject.SetActive(false);
