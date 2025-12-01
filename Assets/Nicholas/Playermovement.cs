@@ -19,15 +19,16 @@ public class Playermovement : MonoBehaviour
     [SerializeField] Transform groundCheck;
 
     private float horizontal;
+    private float vertical;
     private Color32 polarityColor;
     public int polarity;
-
     private bool canDash = true;
     private bool isDashing;
     public float dashingPower = 24f;
     private float dashingTime = 0.2f;
     private float dashingCooldown = 1f;
-    private float direction;
+    private float directionx;
+    private float directiony;
 
     private void FixedUpdate()
     {
@@ -36,6 +37,11 @@ public class Playermovement : MonoBehaviour
             return;
         }
         rb.AddForceX(horizontal * acceleration);
+        if (rb.gravityScale == 0)
+        {
+            rb.AddForceY(vertical * acceleration);
+        }
+        
 
         sr.color = polarityColor;
         if(rb.linearVelocityX < -topSpeed)
@@ -45,6 +51,14 @@ public class Playermovement : MonoBehaviour
         else if(rb.linearVelocityX > topSpeed)
         {
             rb.linearVelocityX = topSpeed;
+        }
+        else if (rb.linearVelocityY > topSpeed)
+        {
+            rb.linearVelocityY = topSpeed;
+        }
+        else if (rb.linearVelocityY > topSpeed)
+        {
+            rb.linearVelocityY = topSpeed;
         }
 
     }
@@ -71,9 +85,14 @@ public class Playermovement : MonoBehaviour
     public void Move(InputAction.CallbackContext context)
     {
         horizontal = context.ReadValue<Vector2>().x;
-        if(horizontal != 0)
+        vertical = context.ReadValue<Vector2>().y;
+        if (horizontal != 0)
         {
-            direction = horizontal;
+            directionx = horizontal;
+        }
+        if (vertical != 0)
+        {
+            directiony = vertical;
         }
     }
 
@@ -109,7 +128,7 @@ public class Playermovement : MonoBehaviour
         isDashing = true;
         float originalGravity = rb.gravityScale;
         rb.gravityScale = 0f;
-        rb.linearVelocity = new Vector2(direction * dashingPower, 0f);
+        rb.linearVelocity = new Vector2(directionx * dashingPower, 0f);
         yield return new WaitForSeconds(dashingTime);
         rb.gravityScale = originalGravity;
         isDashing = false;

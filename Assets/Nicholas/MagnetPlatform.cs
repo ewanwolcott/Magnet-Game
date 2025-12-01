@@ -88,5 +88,6 @@ public class MagnetPlatform : MonoBehaviour
             }
             pm.rb.gravityScale = 0.8f;
         }
+        
     }
 }
