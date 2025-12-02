@@ -14,6 +14,10 @@ public class Playermovement : MonoBehaviour
     public float topSpeed;
     [SerializeField] float jumpingPower;
 
+    [Header("For Interactablility")]
+    public Vector2 boxSize;
+    public LayerMask boxLayer;
+
     [Header("Grounding")]
     [SerializeField] LayerMask groundLayer;
     [SerializeField] Transform groundCheck;
@@ -131,8 +135,20 @@ public class Playermovement : MonoBehaviour
     public void Interact(InputAction.CallbackContext context)
     {
         if (context.ReadValue<float>() == 0)
-            return
-    ;   Physics2D.BoxCast(transform.position, new Vector2(1.5f, 1.5f), 0, Vector2.zero);
+            return;
+        else if(context.performed){
+            RaycastHit2D hit = Physics2D.BoxCast(transform.position, boxSize, 0, Vector2.zero, 1, boxLayer);
+            Debug.Log("interacted");
+            if (hit && hit.collider.TryGetComponent(out Interactable interactable))
+            {
+                interactable.onInteract.Invoke();
+            }
+        }
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawWireCube(transform.position, boxSize);
     }
     #endregion
 
