@@ -138,7 +138,6 @@ public class Playermovement : MonoBehaviour
             return;
         else if(context.performed){
             RaycastHit2D hit = Physics2D.BoxCast(transform.position, boxSize, 0, Vector2.zero, 1, boxLayer);
-            Debug.Log("interacted");
             if (hit && hit.collider.TryGetComponent(out Interactable interactable))
             {
                 interactable.onInteract.Invoke();

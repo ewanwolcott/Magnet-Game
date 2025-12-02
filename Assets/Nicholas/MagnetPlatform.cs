@@ -7,10 +7,12 @@ using UnityEngine.Tilemaps;
 public class MagnetPlatform : MonoBehaviour
 {
     [SerializeField] Tilemap tm;
+    [SerializeField] SpriteRenderer sr;
 
     public int polarity;
     public float attractionForce;
     private Color32 polarityColor;
+    private Color32 fieldColor;
 
     public int distance1;
     public int distance2;
@@ -51,18 +53,22 @@ public class MagnetPlatform : MonoBehaviour
         {
             attractionForce  = Mathf.Abs(attractionForce);
             polarityColor = new Color32(0, 130, 255, 255);
+            fieldColor = new Color32(0, 130, 255, 100);
         }
         else if(polarity == -1)
         {
             attractionForce = -Mathf.Abs(attractionForce);
             polarityColor = new Color32(255, 0, 0, 255);
+            fieldColor = new Color32(255, 0, 0, 100);
         }
         else
         {
             attractionForce = 0;
             polarityColor = new Color32(255, 0, 255, 255);
+            fieldColor = new Color32(255, 0, 255, 100);
         }
         tm.color = polarityColor;
+        sr.color = fieldColor;
     }
     public void OnTriggerEnter2D(Collider2D collision)
     {
