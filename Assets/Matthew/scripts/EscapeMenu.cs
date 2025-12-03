@@ -9,6 +9,10 @@ public class EscapeMenu : MonoBehaviour
 
     public void MainMenu()
     {
+        Time.timeScale = 1;
+        escapemenu.SetActive(false);
+        escapemenubackground.SetActive(false);
+        IsEscaped = false;
         SceneManager.LoadScene("Title_Screne");
     }
     public void Resume()
