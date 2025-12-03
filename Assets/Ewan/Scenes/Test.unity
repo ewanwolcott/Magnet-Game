@@ -713,14 +713,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0f68f9c1e3146145b50d66fdfd976da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tm: {fileID: 0}
-  sr: {fileID: 412375218}
-  polarity: 1
-  attractionForce: 4
-  distance1: 3
-  distance2: 5
-  distance3: 6
-  distance4: 7
 --- !u!1 &468883517
 GameObject:
   m_ObjectHideFlags: 0
@@ -1556,14 +1548,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0f68f9c1e3146145b50d66fdfd976da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tm: {fileID: 0}
-  sr: {fileID: 1184357567}
-  polarity: 0
-  attractionForce: 5
-  distance1: 3
-  distance2: 5
-  distance3: 6
-  distance4: 7
 --- !u!61 &1184357565
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1847,24 +1831,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 1676725434}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a1fb2521e3085ca42a667adce5db6456, type: 3}
+  m_Script: {fileID: 11500000, guid: 17ba363a7f19a7a468a86092067cf997, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1676725437}
-  sr: {fileID: 1676725439}
-  acceleration: 50
-  topSpeed: 10
-  jumpingPower: 5
-  boxSize: {x: 0, y: 0}
-  boxLayer:
-    serializedVersion: 2
-    m_Bits: 0
+  speed: 12
+  jumpingPower: 2
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
-  groundCheck: {fileID: 1974231634}
-  polarity: 0
-  dashingPower: 24
+  groundCheck: {fileID: 0}
 --- !u!114 &1676725436
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2008,7 +1984,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.62, y: 2.7866666}
+    oldSize: {x: 1.6650001, y: 2.5006106}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2080,7 +2056,7 @@ Transform:
   m_GameObject: {fileID: 1676725434}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.985, y: -0.068, z: 0}
+  m_LocalPosition: {x: -0.02, y: -0.82, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2141,14 +2117,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0f68f9c1e3146145b50d66fdfd976da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tm: {fileID: 0}
-  sr: {fileID: 1726801066}
-  polarity: -1
-  attractionForce: 4
-  distance1: 3
-  distance2: 5
-  distance3: 6
-  distance4: 7
 --- !u!61 &1726801064
 BoxCollider2D:
   m_ObjectHideFlags: 0
