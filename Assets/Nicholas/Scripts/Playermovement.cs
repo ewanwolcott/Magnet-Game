@@ -68,12 +68,12 @@ public class Playermovement : MonoBehaviour
     }
     private void Update()
     {
-        if (Input.GetMouseButton(0)) // when left mouse button down
+        if (Input.GetMouseButton(1)) // when left mouse button down
         {
             polarity = 1;
             polarityColor = new Color32(255,0,0,255);
         }
-        else if (Input.GetMouseButton(1)) // when right mouse button is down
+        else if (Input.GetMouseButton(0)) // when right mouse button is down
         {
             polarity = -1;
             polarityColor = new Color32(0, 0, 255, 255);
