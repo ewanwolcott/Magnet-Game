@@ -150,7 +150,7 @@ GameObject:
   - component: {fileID: 179778068935349840}
   - component: {fileID: 8944969806816195986}
   - component: {fileID: 7120027396305063854}
-  - component: {fileID: -2178785431746205399}
+  - component: {fileID: 3021136467590072268}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -386,7 +386,7 @@ MonoBehaviour:
   groundCheck: {fileID: 1826355701861467439}
   polarity: 0
   dashingPower: 24
---- !u!61 &-2178785431746205399
+--- !u!61 &3021136467590072268
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

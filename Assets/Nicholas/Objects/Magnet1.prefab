@@ -144,8 +144,8 @@ GameObject:
   m_Component:
   - component: {fileID: 6975201757312375651}
   - component: {fileID: 2274948030707044511}
-  - component: {fileID: 4875086914848784748}
   - component: {fileID: 5639279800442064422}
+  - component: {fileID: -7819795756071431530}
   m_Layer: 0
   m_Name: Magnet1
   m_TagString: Untagged
@@ -225,8 +225,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!58 &4875086914848784748
-CircleCollider2D:
+--- !u!114 &5639279800442064422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6588816947504391136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f68f9c1e3146145b50d66fdfd976da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tm: {fileID: 0}
+  sr: {fileID: 5787514083520612106}
+  polarity: -1
+  attractionForce: 4
+  distance1: 3
+  distance2: 5
+  distance3: 6
+  distance4: 7
+--- !u!70 &-7819795756071431530
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -260,27 +280,8 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 2
---- !u!114 &5639279800442064422
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6588816947504391136}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0f68f9c1e3146145b50d66fdfd976da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tm: {fileID: 0}
-  sr: {fileID: 5787514083520612106}
-  polarity: -1
-  attractionForce: 4
-  distance1: 3
-  distance2: 5
-  distance3: 6
-  distance4: 7
+  m_Size: {x: 1, y: 1}
+  m_Direction: 0
 --- !u!1 &7168731540280286321
 GameObject:
   m_ObjectHideFlags: 0

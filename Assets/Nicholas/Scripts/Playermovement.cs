@@ -98,6 +98,8 @@ public class Playermovement : MonoBehaviour
         {
             directiony = vertical;
         }
+
+        GetComponent<Animator>().SetFloat("XInput", horizontal);
     }
 
     public void Dash(InputAction.CallbackContext context)
