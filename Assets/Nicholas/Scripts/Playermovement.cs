@@ -49,7 +49,6 @@ public class Playermovement : MonoBehaviour
             rb.AddForceY(vertical * acceleration);
         }
         
-
         sr.color = polarityColor;
         if(rb.linearVelocityX < -topSpeed)
         {
