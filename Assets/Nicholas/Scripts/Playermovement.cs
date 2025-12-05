@@ -26,7 +26,7 @@ public class Playermovement : MonoBehaviour
     private float vertical;
     private Color32 polarityColor;
     public int polarity;
-    private bool canDash = true;
+    public bool canDash = true;
     private bool isDashing;
     public float dashingPower = 24f;
     private float dashingTime = 0.2f;
