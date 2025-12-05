@@ -10,7 +10,7 @@ public class ParticlesOnKeyPress : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.LeftShift))
         {
-            Dashtrail;
+            StartCoroutine(Dashtrail());
         }
     }
 
