@@ -34,6 +34,9 @@ public class Playermovement : MonoBehaviour
     private float directionx;
     private float directiony;
 
+    public bool hasRed;
+    public bool hasBlue;
+
     private void FixedUpdate()
     {
         if (isDashing)
@@ -46,37 +49,43 @@ public class Playermovement : MonoBehaviour
             rb.AddForceY(vertical * acceleration);
         }
         
-
         sr.color = polarityColor;
         if(rb.linearVelocityX < -topSpeed)
         {
-            rb.linearVelocityX = -topSpeed;
+            rb.linearVelocityX -= -topSpeed/6;
         }
         else if(rb.linearVelocityX > topSpeed)
         {
-            rb.linearVelocityX = topSpeed;
+            rb.linearVelocityX -= topSpeed/6;
         }
         else if (rb.linearVelocityY > topSpeed)
         {
-            rb.linearVelocityY = topSpeed;
+            rb.linearVelocityY -= topSpeed/6;
         }
         else if (rb.linearVelocityY > topSpeed)
         {
-            rb.linearVelocityY = topSpeed;
+            rb.linearVelocityY -= topSpeed/6;
         }
 
     }
     private void Update()
     {
-        if (Input.GetMouseButton(1)) // when left mouse button down
+        if (Input.GetMouseButton(1)) // when right mouse button down
         {
-            polarity = 1;
-            polarityColor = new Color32(255,0,0,255);
+            if (hasRed)
+            {
+                polarity = 1;
+                polarityColor = new Color32(255, 0, 0, 255);
+            }
         }
-        else if (Input.GetMouseButton(0)) // when right mouse button is down
+        else if (Input.GetMouseButton(0)) // when left mouse button is down
         {
-            polarity = -1;
-            polarityColor = new Color32(0, 0, 255, 255);
+            if (hasBlue)
+            {
+                polarity = -1;
+                polarityColor = new Color32(0, 0, 255, 255);
+            }
+            
         }
         else
         {

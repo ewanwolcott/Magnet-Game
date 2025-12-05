@@ -31,18 +31,27 @@ public class MagnetPlatform : MonoBehaviour
                 float distance = Mathf.Sqrt( Mathf.Pow(2,transform.position.x - rb.transform.position.x) + Mathf.Pow(2, transform.position.y - rb.transform.position.y));
                 if (distance >= 0 && distance <= distance1) {
                     rb.AddForce(direction * attractionForce * 6 * pm.polarity);
+                    Debug.Log("added force1");
                 }
                 else if (distance > distance1 && distance <= distance2)
                 {
                     rb.AddForce(direction * attractionForce * 4 * pm.polarity);
+                    Debug.Log("added force2");
                 }
                 else if (distance > distance2 && distance <= distance3)
                 {
                     rb.AddForce(direction * attractionForce * 2 * pm.polarity);
+                    Debug.Log("added force3");
                 }
                 else if (distance > distance3 && distance <= distance4)
                 {
                     rb.AddForce(direction * attractionForce * pm.polarity);
+                    Debug.Log("added force4");
+                }
+                else
+                {
+                    rb.AddForce(direction * attractionForce * pm.polarity);
+                    Debug.Log("added force5");
                 }
             }
         }
