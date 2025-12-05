@@ -5,6 +5,10 @@ using UnityEngine.UIElements;
 
 public class Playermovement : MonoBehaviour
 {
+    public GameObject Player;
+    private Playermovement script;
+
+
     [Header("Player Component Refrences")]
     public  Rigidbody2D rb;
     [SerializeField] SpriteRenderer sr;
