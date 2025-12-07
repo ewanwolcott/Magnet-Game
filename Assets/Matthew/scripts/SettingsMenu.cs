@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.UI;
 using TMPro;
+using System.Linq;
 
 public class SettingsMenu : MonoBehaviour
 {
@@ -26,6 +27,7 @@ public class SettingsMenu : MonoBehaviour
         fullscreen.isOn = Screen.fullScreen;
 
         resolutions = Screen.resolutions;
+        resolutions = resolutions.Distinct().ToArray();
 
         resolutionDropdown.ClearOptions();
 

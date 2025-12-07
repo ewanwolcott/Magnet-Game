@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -5,6 +6,9 @@ using UnityEngine.UIElements;
 
 public class Playermovement : MonoBehaviour
 {
+
+    [SerializeField] private TrailRenderer tr;
+
     [Header("Player Component Refrences")]
     public  Rigidbody2D rb;
     [SerializeField] SpriteRenderer sr;
@@ -26,13 +30,26 @@ public class Playermovement : MonoBehaviour
     private float vertical;
     private Color32 polarityColor;
     public int polarity;
-    private bool canDash = true;
+    public bool canDash = true;
     private bool isDashing;
     public float dashingPower = 24f;
     private float dashingTime = 0.2f;
     private float dashingCooldown = 1f;
+    public float DashtrailTime = 1;
     private float directionx;
     private float directiony;
+
+    public bool hasRed;
+    public bool hasBlue;
+
+
+
+    private IEnumerator Dashtrail()
+    {
+        tr.emitting = true;
+        yield return new WaitForSeconds(DashtrailTime);
+        tr.emitting = false;
+    }
 
     private void FixedUpdate()
     {
@@ -46,42 +63,53 @@ public class Playermovement : MonoBehaviour
             rb.AddForceY(vertical * acceleration);
         }
         
-
         sr.color = polarityColor;
         if(rb.linearVelocityX < -topSpeed)
         {
-            rb.linearVelocityX = -topSpeed;
+            rb.linearVelocityX -= -topSpeed/6;
         }
         else if(rb.linearVelocityX > topSpeed)
         {
-            rb.linearVelocityX = topSpeed;
+            rb.linearVelocityX -= topSpeed/6;
         }
         else if (rb.linearVelocityY > topSpeed)
         {
-            rb.linearVelocityY = topSpeed;
+            rb.linearVelocityY -= topSpeed/6;
         }
         else if (rb.linearVelocityY > topSpeed)
         {
-            rb.linearVelocityY = topSpeed;
+            rb.linearVelocityY -= topSpeed/6;
         }
 
     }
     private void Update()
     {
-        if (Input.GetMouseButton(1)) // when left mouse button down
+        if (Input.GetMouseButton(1)) // when right mouse button down
         {
-            polarity = 1;
-            polarityColor = new Color32(255,0,0,255);
+            if (hasRed)
+            {
+                polarity = 1;
+                polarityColor = new Color32(255, 0, 0, 255);
+            }
         }
-        else if (Input.GetMouseButton(0)) // when right mouse button is down
+        else if (Input.GetMouseButton(0)) // when left mouse button is down
         {
-            polarity = -1;
-            polarityColor = new Color32(0, 0, 255, 255);
+            if (hasBlue)
+            {
+                polarity = -1;
+                polarityColor = new Color32(0, 0, 255, 255);
+            }
+            
         }
         else
         {
             polarity = 0;
             polarityColor = new Color32(255, 255, 255, 255);
+        }
+
+        if (Input.GetKeyDown(KeyCode.LeftShift) && isDashing == true)
+        {
+            StartCoroutine(Dashtrail());
         }
     }
 
