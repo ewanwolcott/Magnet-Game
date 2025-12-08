@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a263290dfe843a94b902bf7d54e41436
+guid: 435aeaec1b339af4ab5df1e45e0fe3e0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4267914578173717267
-    second: TITLESCREEN finished_0
+      213: -881353802869257182
+    second: red button stand_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TITLESCREEN finished_0
+      name: red button stand_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 3840
-        height: 2160
+        x: 180
+        y: 109
+        width: 92
+        height: 244
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31b61cb42bdaa3b30800000000000000
-      internalID: 4267914578173717267
+      spriteID: 22cc98ac26dc4c3f0800000000000000
+      internalID: -881353802869257182
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TITLESCREEN finished_0: 4267914578173717267
+      red button stand_0: -881353802869257182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

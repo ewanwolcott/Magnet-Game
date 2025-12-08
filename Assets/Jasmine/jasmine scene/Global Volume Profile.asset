@@ -18,16 +18,16 @@ MonoBehaviour:
     m_Value: 0
   contrast:
     m_OverrideState: 1
-    m_Value: -24
+    m_Value: -15
   colorFilter:
     m_OverrideState: 1
     m_Value: {r: 0.8018868, g: 0.8018868, b: 0.8018868, a: 1}
   hueShift:
     m_OverrideState: 1
-    m_Value: -5
+    m_Value: 6
   saturation:
     m_OverrideState: 1
-    m_Value: 9
+    m_Value: 13
 --- !u!114 &-7712398578302157691
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -232,7 +232,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.28
+    m_Value: 0.06
   xMultiplier:
     m_OverrideState: 0
     m_Value: 1
@@ -328,7 +328,32 @@ MonoBehaviour:
     m_Value: {x: 0.92029774, y: 1, z: 0.9012669, w: 0}
   gain:
     m_OverrideState: 1
-    m_Value: {x: 0.8598248, y: 0.7366905, z: 1, w: 0}
+    m_Value: {x: 0.8598248, y: 0.7366905, z: 1, w: 0.4222452}
+--- !u!114 &-145609744853744860
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29fa0085f50d5e54f8144f766051a691, type: 3}
+  m_Name: FilmGrain
+  m_EditorClassIdentifier: 
+  active: 1
+  type:
+    m_OverrideState: 1
+    m_Value: 3
+  intensity:
+    m_OverrideState: 1
+    m_Value: 0.144
+  response:
+    m_OverrideState: 1
+    m_Value: 0.732
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -353,6 +378,7 @@ MonoBehaviour:
   - {fileID: -926100558965201629}
   - {fileID: 3397845510110192479}
   - {fileID: -5538460344871560247}
+  - {fileID: -145609744853744860}
 --- !u!114 &3397845510110192479
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -365,7 +391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
   m_Name: Bloom
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   skipIterations:
     m_OverrideState: 0
     m_Value: 1
@@ -382,7 +408,7 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 65472
   tint:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 1, g: 0.5801887, b: 0.5801887, a: 1}
   highQualityFiltering:
     m_OverrideState: 1
@@ -412,7 +438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccf1aba9553839d41ae37dd52e9ebcce, type: 3}
   m_Name: MotionBlur
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   mode:
     m_OverrideState: 1
     m_Value: 0
@@ -421,10 +447,10 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.316
+    m_Value: 0
   clamp:
     m_OverrideState: 1
-    m_Value: 0.05
+    m_Value: 0
 --- !u!114 &5430247274241691985
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -440,7 +466,7 @@ MonoBehaviour:
   active: 1
   mode:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
   gaussianStart:
     m_OverrideState: 1
     m_Value: 10
@@ -449,7 +475,7 @@ MonoBehaviour:
     m_Value: 30
   gaussianMaxRadius:
     m_OverrideState: 1
-    m_Value: 1.204
+    m_Value: 0.5
   highQualitySampling:
     m_OverrideState: 1
     m_Value: 1
@@ -492,7 +518,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.739
   smoothness:
     m_OverrideState: 1
     m_Value: 0.01

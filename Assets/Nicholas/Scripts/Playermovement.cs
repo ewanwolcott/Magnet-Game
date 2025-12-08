@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -5,9 +6,8 @@ using UnityEngine.UIElements;
 
 public class Playermovement : MonoBehaviour
 {
-    public GameObject Player;
-    private Playermovement script;
 
+    [SerializeField] private TrailRenderer tr;
 
     [Header("Player Component Refrences")]
     public  Rigidbody2D rb;
@@ -34,12 +34,22 @@ public class Playermovement : MonoBehaviour
     private bool isDashing;
     public float dashingPower = 24f;
     private float dashingTime = 0.2f;
-    private float dashingCooldown = 1f;
+    public float dashingCooldown = 0f;
+    public float DashtrailTime = 1;
     private float directionx;
     private float directiony;
 
     public bool hasRed;
     public bool hasBlue;
+
+
+
+    private IEnumerator Dashtrail()
+    {
+        tr.emitting = true;
+        yield return new WaitForSeconds(DashtrailTime);
+        tr.emitting = false;
+    }
 
     private void FixedUpdate()
     {
@@ -95,6 +105,11 @@ public class Playermovement : MonoBehaviour
         {
             polarity = 0;
             polarityColor = new Color32(255, 255, 255, 255);
+        }
+
+        if (Input.GetKeyDown(KeyCode.LeftShift) && isDashing == true)
+        {
+            StartCoroutine(Dashtrail());
         }
     }
 
