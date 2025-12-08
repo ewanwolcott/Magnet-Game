@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: thickmetaltilemap_0
+  m_Name: building corner22_0
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -1505003705815669526, guid: 9c3b1e8fda2d5584c93ceba75682a493, type: 3}
+  m_Sprite: {fileID: 2166954749121367425, guid: 563838427415d5145b7bfcd06d804fd3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

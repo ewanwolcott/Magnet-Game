@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: metal 9tilemap_2
+  m_Name: buildingtile1 (1)22_0
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 2056102285, guid: c7c74d571709d9a48b3920bd0eaf13ff, type: 3}
+  m_Sprite: {fileID: 3862036967692239227, guid: a16dcf5278e1afd4c8c83eda08217bb8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
