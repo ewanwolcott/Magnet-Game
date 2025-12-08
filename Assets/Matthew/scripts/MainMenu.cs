@@ -5,7 +5,7 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("esc_ui");
+        SceneManager.LoadScene("Level1");
     }
 
     public void PlayCredits()
