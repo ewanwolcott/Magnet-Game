@@ -379,7 +379,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &51135015
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2719,6 +2719,11 @@ TrailRenderer:
   m_Autodestruct: 0
   m_Emitting: 0
   m_ApplyActiveColorSpace: 1
+--- !u!4 &606867323 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4585298351771989955, guid: 509fc3c6656fef24880508a4724a3ec9, type: 3}
+  m_PrefabInstance: {fileID: 2112169419}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &613098859
 GameObject:
   m_ObjectHideFlags: 0
@@ -2827,7 +2832,7 @@ RectTransform:
   m_Father: {fileID: 862040456}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0.75, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -3599,6 +3604,7 @@ GameObject:
   m_Component:
   - component: {fileID: 852488972}
   - component: {fileID: 852488971}
+  - component: {fileID: 852488973}
   m_Layer: 0
   m_Name: CinemachineCamera
   m_TagString: Untagged
@@ -3626,7 +3632,7 @@ MonoBehaviour:
   m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
-    TrackingTarget: {fileID: 1674090270}
+    TrackingTarget: {fileID: 606867323}
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
@@ -3658,12 +3664,31 @@ Transform:
   m_GameObject: {fileID: 852488970}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.052405, y: 0.86233985, z: -19.160978}
+  m_LocalPosition: {x: 0, y: -1, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &852488973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 852488970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b617507da6d07e749b7efdb34e1173e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TrackerSettings:
+    BindingMode: 4
+    PositionDamping: {x: 1, y: 1, z: 1}
+    AngularDampingMode: 0
+    RotationDamping: {x: 1, y: 1, z: 1}
+    QuaternionDamping: 1
+  FollowOffset: {x: 0, y: 0, z: -10}
 --- !u!1 &858289559
 GameObject:
   m_ObjectHideFlags: 0
@@ -4324,6 +4349,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+  - {fileID: 10650, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -8278,7 +8304,7 @@ ParticleSystem:
         m_RotationOrder: 4
     maxLights: 20
   TrailModule:
-    enabled: 0
+    enabled: 1
     mode: 0
     ratio: 1
     lifetime:
@@ -8335,14 +8361,14 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     minVertexDistance: 0.2
-    textureMode: 0
-    textureScale: {x: 1, y: 1}
+    textureMode: 3
+    textureScale: {x: 10.97, y: 1}
     ribbonCount: 1
     shadowBias: 0.5
     worldSpace: 0
     dieWithParticles: 1
-    sizeAffectsWidth: 1
-    sizeAffectsLifetime: 0
+    sizeAffectsWidth: 0
+    sizeAffectsLifetime: 1
     inheritParticleColor: 1
     generateLightingData: 0
     splitSubEmitterRibbons: 0
@@ -12466,11 +12492,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3164455835926161889, guid: 509fc3c6656fef24880508a4724a3ec9, type: 3}
   m_PrefabInstance: {fileID: 2112169419}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1674090270 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 968407300489357051, guid: 509fc3c6656fef24880508a4724a3ec9, type: 3}
-  m_PrefabInstance: {fileID: 2112169419}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1674090274
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13501,8 +13522,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1565779669}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.75, y: 0}
-  m_AnchorMax: {x: 0.75, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -13864,15 +13885,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 968407300489357051, guid: 509fc3c6656fef24880508a4724a3ec9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.052405
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 968407300489357051, guid: 509fc3c6656fef24880508a4724a3ec9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.8623399
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 968407300489357051, guid: 509fc3c6656fef24880508a4724a3ec9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -19.160978
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 3754192409635465933, guid: 509fc3c6656fef24880508a4724a3ec9, type: 3}
       propertyPath: m_SortingOrder
