@@ -165,7 +165,7 @@
                     "name": "",
                     "id": "6f6f25da-1db4-4cc3-8a45-071bb6a74acf",
                     "path": "<Keyboard>/d",
-                    "interactions": "MultiTap",
+                    "interactions": "MultiTap(tapDelay=0.85)",
                     "processors": "",
                     "groups": "",
                     "action": "Dash",
