@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spotllight purple_0: -8360812067535741550
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
