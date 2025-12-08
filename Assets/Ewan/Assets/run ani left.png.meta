@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: ccc138606fe00d34babd957887637adf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -852448918322293721
+    second: run ani left_0
+  - first:
+      213: 482406306730640149
+    second: run ani left_1
+  - first:
+      213: -7854375733928895896
+    second: run ani left_2
+  - first:
+      213: 1432991950804370166
+    second: run ani left_3
+  - first:
+      213: 5666371687274277038
+    second: run ani left_4
+  - first:
+      213: 7306043623831456628
+    second: run ani left_5
+  - first:
+      213: -6431427811156081773
+    second: run ani left_6
+  - first:
+      213: 5075835999391925002
+    second: run ani left_7
+  - first:
+      213: 872949959109174766
+    second: run ani left_8
+  - first:
+      213: -6234857556212885825
+    second: run ani left_9
+  - first:
+      213: -5876846848032259143
+    second: run ani left_10
+  - first:
+      213: 8421837464618228177
+    second: run ani left_11
+  - first:
+      213: -373574928341855748
+    second: run ani left_12
+  - first:
+      213: -3126267374111123258
+    second: run ani left_13
+  - first:
+      213: 598482311470789995
+    second: run ani left_14
+  - first:
+      213: -4259561728871036119
+    second: run ani left_15
+  - first:
+      213: 4670936861468512653
+    second: run ani left_16
+  - first:
+      213: 3468006552744176499
+    second: run ani left_17
+  - first:
+      213: -5599603171959728109
+    second: run ani left_18
+  - first:
+      213: -3157908199455399102
+    second: run ani left_19
+  - first:
+      213: 8221300155240494049
+    second: run ani left_20
+  - first:
+      213: 4354551432297373549
+    second: run ani left_21
+  - first:
+      213: 7579532498129055850
+    second: run ani left_22
+  - first:
+      213: -5418456161361459628
+    second: run ani left_23
+  - first:
+      213: -2035006888873487376
+    second: run ani left_24
+  - first:
+      213: 890698663889904935
+    second: run ani left_25
+  - first:
+      213: 6987801324752767353
+    second: run ani left_26
+  - first:
+      213: -4785273791158415407
+    second: run ani left_27
+  - first:
+      213: -1693491312873935624
+    second: run ani left_28
+  - first:
+      213: -6349235465075424853
+    second: run ani left_29
+  - first:
+      213: -9107244459352240772
+    second: run ani left_30
+  - first:
+      213: -2836208679638322260
+    second: run ani left_31
+  - first:
+      213: -1415480193145800876
+    second: run ani left_32
+  - first:
+      213: -4918065127470233907
+    second: run ani left_33
+  - first:
+      213: -2934488371245228526
+    second: run ani left_34
+  - first:
+      213: -4070204503490080306
+    second: run ani left_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run ani left_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 505
+        width: 254
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724db3aa93e7b24f0800000000000000
+      internalID: -852448918322293721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run ani left_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 456
+        width: 244
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5138616eaf9d1b600800000000000000
+      internalID: 482406306730640149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run ani left_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 454
+        width: 250
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a58be52e6aff290800000000000000
+      internalID: -7854375733928895896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run ani left_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f240b1469203e310800000000000000
+      internalID: 1432991950804370166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run ani left_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea86051270ff2ae40800000000000000
+      internalID: 5666371687274277038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run ani left_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b4bff77f7446560800000000000000
+      internalID: 7306043623831456628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 85b0b20b7ad9762459dcb2200be2f2b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      run ani left_0: -852448918322293721
+      run ani left_1: 482406306730640149
+      run ani left_2: -7854375733928895896
+      run ani left_3: 1432991950804370166
+      run ani left_4: 5666371687274277038
+      run ani left_5: 7306043623831456628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
