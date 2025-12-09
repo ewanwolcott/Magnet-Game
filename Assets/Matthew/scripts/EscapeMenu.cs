@@ -6,6 +6,7 @@ public class EscapeMenu : MonoBehaviour
 {
     public GameObject escapemenu;
     public GameObject escapemenubackground;
+    public GameObject settingsmenu;
 
     public void MainMenu()
     {
@@ -44,6 +45,7 @@ public class EscapeMenu : MonoBehaviour
         {
             escapemenu.SetActive(false);
             escapemenubackground.SetActive(false);
+            settingsmenu.SetActive(false);
             IsEscaped = false;
             Time.timeScale = 1;
         }
