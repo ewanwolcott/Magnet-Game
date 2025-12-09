@@ -276,7 +276,7 @@ MonoBehaviour:
   active: 1
   normalBias:
     m_OverrideState: 1
-    m_Value: 0.26
+    m_Value: 0.19
   viewBias:
     m_OverrideState: 1
     m_Value: 0.5
