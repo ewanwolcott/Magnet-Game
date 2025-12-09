@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 8b0e18882c8e6e9428d1c6d17e7512a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5877839473270393076
+    second: blue Idle Animation Pharroh_0
+  - first:
+      213: 7037287489765789218
+    second: blue Idle Animation Pharroh_1
+  - first:
+      213: -3162598914983035331
+    second: blue Idle Animation Pharroh_2
+  - first:
+      213: -4332964288861290876
+    second: blue Idle Animation Pharroh_3
+  - first:
+      213: 1464651870369026324
+    second: blue Idle Animation Pharroh_4
+  - first:
+      213: 7661575339016471780
+    second: blue Idle Animation Pharroh_5
+  - first:
+      213: 8679513234744802315
+    second: blue Idle Animation Pharroh_6
+  - first:
+      213: -3401882459202777236
+    second: blue Idle Animation Pharroh_7
+  - first:
+      213: 6043883856406353155
+    second: blue Idle Animation Pharroh_8
+  - first:
+      213: 7050023451799026214
+    second: blue Idle Animation Pharroh_9
+  - first:
+      213: -9010077535934650090
+    second: blue Idle Animation Pharroh_10
+  - first:
+      213: -2057545647746243141
+    second: blue Idle Animation Pharroh_11
+  - first:
+      213: -4721026457397071185
+    second: blue Idle Animation Pharroh_12
+  - first:
+      213: -3343241249261602353
+    second: blue Idle Animation Pharroh_13
+  - first:
+      213: 4602417147494511637
+    second: blue Idle Animation Pharroh_14
+  - first:
+      213: -3282292570359338346
+    second: blue Idle Animation Pharroh_15
+  - first:
+      213: 7631452498135523853
+    second: blue Idle Animation Pharroh_16
+  - first:
+      213: 5796226846938033211
+    second: blue Idle Animation Pharroh_17
+  - first:
+      213: -6261600993539804627
+    second: blue Idle Animation Pharroh_18
+  - first:
+      213: -6769254363885778595
+    second: blue Idle Animation Pharroh_19
+  - first:
+      213: -4634041778204158013
+    second: blue Idle Animation Pharroh_20
+  - first:
+      213: -3941568775761127612
+    second: blue Idle Animation Pharroh_21
+  - first:
+      213: 5201375150285827224
+    second: blue Idle Animation Pharroh_22
+  - first:
+      213: 4838976668644169004
+    second: blue Idle Animation Pharroh_23
+  - first:
+      213: 6278292818428008641
+    second: blue Idle Animation Pharroh_24
+  - first:
+      213: -5011160873418720477
+    second: blue Idle Animation Pharroh_25
+  - first:
+      213: -4501165413756451639
+    second: blue Idle Animation Pharroh_26
+  - first:
+      213: 8072336065761333743
+    second: blue Idle Animation Pharroh_27
+  - first:
+      213: 3101667335482358748
+    second: blue Idle Animation Pharroh_28
+  - first:
+      213: -933987338588007468
+    second: blue Idle Animation Pharroh_29
+  - first:
+      213: 1375263080527189267
+    second: blue Idle Animation Pharroh_30
+  - first:
+      213: 7467601306633713689
+    second: blue Idle Animation Pharroh_31
+  - first:
+      213: -3879111069981857829
+    second: blue Idle Animation Pharroh_32
+  - first:
+      213: 2192544332538770133
+    second: blue Idle Animation Pharroh_33
+  - first:
+      213: -8314335048416551856
+    second: blue Idle Animation Pharroh_34
+  - first:
+      213: -5917135888389711019
+    second: blue Idle Animation Pharroh_35
+  - first:
+      213: 3233199241031955884
+    second: blue Idle Animation Pharroh_36
+  - first:
+      213: -6221231376802518529
+    second: blue Idle Animation Pharroh_37
+  - first:
+      213: 7493553493733412111
+    second: blue Idle Animation Pharroh_38
+  - first:
+      213: -6264960272094523280
+    second: blue Idle Animation Pharroh_39
+  - first:
+      213: -2728713339101512668
+    second: blue Idle Animation Pharroh_40
+  - first:
+      213: -4980836772801648963
+    second: blue Idle Animation Pharroh_41
+  - first:
+      213: -7127576567391692876
+    second: blue Idle Animation Pharroh_42
+  - first:
+      213: 2686410431892109533
+    second: blue Idle Animation Pharroh_43
+  - first:
+      213: -1653524895262644890
+    second: blue Idle Animation Pharroh_44
+  - first:
+      213: 6461799023000126444
+    second: blue Idle Animation Pharroh_45
+  - first:
+      213: 1945979141718427363
+    second: blue Idle Animation Pharroh_46
+  - first:
+      213: -5777721095778749037
+    second: blue Idle Animation Pharroh_47
+  - first:
+      213: 3644679923082166655
+    second: blue Idle Animation Pharroh_48
+  - first:
+      213: -6319954170068878896
+    second: blue Idle Animation Pharroh_49
+  - first:
+      213: -4988656409363558705
+    second: blue Idle Animation Pharroh_50
+  - first:
+      213: 4342503979137616830
+    second: blue Idle Animation Pharroh_51
+  - first:
+      213: -6769901525352875480
+    second: blue Idle Animation Pharroh_52
+  - first:
+      213: 2873579939989066868
+    second: blue Idle Animation Pharroh_53
+  - first:
+      213: 7582846635336740307
+    second: blue Idle Animation Pharroh_54
+  - first:
+      213: -914548772695477341
+    second: blue Idle Animation Pharroh_55
+  - first:
+      213: -1345455557338866005
+    second: blue Idle Animation Pharroh_56
+  - first:
+      213: -710485557000843381
+    second: blue Idle Animation Pharroh_57
+  - first:
+      213: 5754270738164509867
+    second: blue Idle Animation Pharroh_58
+  - first:
+      213: -5108209193483547415
+    second: blue Idle Animation Pharroh_59
+  - first:
+      213: 5268787341779920630
+    second: blue Idle Animation Pharroh_60
+  - first:
+      213: 1983725754330860827
+    second: blue Idle Animation Pharroh_61
+  - first:
+      213: 3102457347870445905
+    second: blue Idle Animation Pharroh_62
+  - first:
+      213: 3401429971221331240
+    second: blue Idle Animation Pharroh_63
+  - first:
+      213: -6034860487012478583
+    second: blue Idle Animation Pharroh_64
+  - first:
+      213: -3417341850222025790
+    second: blue Idle Animation Pharroh_65
+  - first:
+      213: 3771682297337043084
+    second: blue Idle Animation Pharroh_66
+  - first:
+      213: -7776343597273448648
+    second: blue Idle Animation Pharroh_67
+  - first:
+      213: -7881581956101874935
+    second: blue Idle Animation Pharroh_68
+  - first:
+      213: -2631880275563662261
+    second: blue Idle Animation Pharroh_69
+  - first:
+      213: -6359225604264671906
+    second: blue Idle Animation Pharroh_70
+  - first:
+      213: 4079260226153675051
+    second: blue Idle Animation Pharroh_71
+  - first:
+      213: -2438769997816458363
+    second: blue Idle Animation Pharroh_72
+  - first:
+      213: 2530956653296337109
+    second: blue Idle Animation Pharroh_73
+  - first:
+      213: 5145788973716395746
+    second: blue Idle Animation Pharroh_74
+  - first:
+      213: -8576908956016721684
+    second: blue Idle Animation Pharroh_75
+  - first:
+      213: -7557627894302382658
+    second: blue Idle Animation Pharroh_76
+  - first:
+      213: -7582035101902689247
+    second: blue Idle Animation Pharroh_77
+  - first:
+      213: -935146134013252464
+    second: blue Idle Animation Pharroh_78
+  - first:
+      213: -3435899719382687793
+    second: blue Idle Animation Pharroh_79
+  - first:
+      213: 2274471717034541756
+    second: blue Idle Animation Pharroh_80
+  - first:
+      213: -2690668179963840977
+    second: blue Idle Animation Pharroh_81
+  - first:
+      213: -6401789210333245912
+    second: blue Idle Animation Pharroh_82
+  - first:
+      213: 867555412491189411
+    second: blue Idle Animation Pharroh_83
+  - first:
+      213: 4748570581644141158
+    second: blue Idle Animation Pharroh_84
+  - first:
+      213: 871362166624480817
+    second: blue Idle Animation Pharroh_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f80d0bdbd7429150800000000000000
+      internalID: 5877839473270393076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e4ac1dfa779a160800000000000000
+      internalID: 7037287489765789218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_2
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e76610b013c14d0800000000000000
+      internalID: -3162598914983035331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e38f1bfe73ed3c0800000000000000
+      internalID: -4332964288861290876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_4
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41115f4bd1d735410800000000000000
+      internalID: 1464651870369026324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_5
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e448f59d22635a60800000000000000
+      internalID: 7661575339016471780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cf34c0d43d37870800000000000000
+      internalID: 8679513234744802315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f06936de51ac0d0800000000000000
+      internalID: -3401882459202777236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30591d4785030e350800000000000000
+      internalID: 6043883856406353155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 96c7f84defa8bc84b9b24a67f163e575
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blue Idle Animation Pharroh_0: 5877839473270393076
+      blue Idle Animation Pharroh_1: 7037287489765789218
+      blue Idle Animation Pharroh_2: -3162598914983035331
+      blue Idle Animation Pharroh_3: -4332964288861290876
+      blue Idle Animation Pharroh_4: 1464651870369026324
+      blue Idle Animation Pharroh_5: 7661575339016471780
+      blue Idle Animation Pharroh_6: 8679513234744802315
+      blue Idle Animation Pharroh_7: -3401882459202777236
+      blue Idle Animation Pharroh_8: 6043883856406353155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
