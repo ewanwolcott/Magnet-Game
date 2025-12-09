@@ -33,8 +33,8 @@ public class Playermovement : MonoBehaviour
     public bool canDash = true;
     private bool isDashing;
     public float dashingPower = 24f;
-    private float dashingTime = .2f;
-    public float dashingCooldown = 2;
+    private float dashingTime = 0.2f;
+    public float dashingCooldown = 0f;
     public float DashtrailTime = 1;
     private float directionx;
     private float directiony;
@@ -107,13 +107,9 @@ public class Playermovement : MonoBehaviour
             polarityColor = new Color32(255, 255, 255, 255);
         }
 
-        if (Input.GetKeyDown(KeyCode.LeftShift) && canDash == true)
+        if (Input.GetKeyDown(KeyCode.LeftShift) && isDashing == true)
         {
             StartCoroutine(Dashtrail());
-        }
-        if (IsGrounded())
-        {
-            canDash = true;
         }
     }
 
@@ -157,10 +153,14 @@ public class Playermovement : MonoBehaviour
     {
         canDash = false;
         isDashing = true;
+        float originalGravity = rb.gravityScale;
+        rb.gravityScale = 0f;
         rb.linearVelocity = new Vector2(directionx * dashingPower, 0f);
         yield return new WaitForSeconds(dashingTime);
+        rb.gravityScale = originalGravity;
         isDashing = false;
         yield return new WaitForSeconds(dashingCooldown);
+        canDash = true;
     }
     public void Interact(InputAction.CallbackContext context)
     {
