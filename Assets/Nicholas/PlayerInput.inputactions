@@ -154,7 +154,7 @@
                     "name": "",
                     "id": "3d507e00-e612-4ff3-917f-0cc46bc03d8b",
                     "path": "<Keyboard>/leftShift",
-                    "interactions": "Tap",
+                    "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "Dash",

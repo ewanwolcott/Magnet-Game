@@ -60701,6 +60701,10 @@ PrefabInstance:
       propertyPath: tr
       value: 
       objectReference: {fileID: 1974168069}
+    - target: {fileID: 9049350539452399255, guid: 509fc3c6656fef24880508a4724a3ec9, type: 3}
+      propertyPath: dashingCooldown
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
