@@ -1,0 +1,2293 @@
+fileFormatVersion: 2
+guid: 8b0e18882c8e6e9428d1c6d17e7512a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5877839473270393076
+    second: blue Idle Animation Pharroh_0
+  - first:
+      213: 7037287489765789218
+    second: blue Idle Animation Pharroh_1
+  - first:
+      213: -3162598914983035331
+    second: blue Idle Animation Pharroh_2
+  - first:
+      213: -4332964288861290876
+    second: blue Idle Animation Pharroh_3
+  - first:
+      213: 1464651870369026324
+    second: blue Idle Animation Pharroh_4
+  - first:
+      213: 7661575339016471780
+    second: blue Idle Animation Pharroh_5
+  - first:
+      213: 8679513234744802315
+    second: blue Idle Animation Pharroh_6
+  - first:
+      213: -3401882459202777236
+    second: blue Idle Animation Pharroh_7
+  - first:
+      213: 6043883856406353155
+    second: blue Idle Animation Pharroh_8
+  - first:
+      213: 7050023451799026214
+    second: blue Idle Animation Pharroh_9
+  - first:
+      213: -9010077535934650090
+    second: blue Idle Animation Pharroh_10
+  - first:
+      213: -2057545647746243141
+    second: blue Idle Animation Pharroh_11
+  - first:
+      213: -4721026457397071185
+    second: blue Idle Animation Pharroh_12
+  - first:
+      213: -3343241249261602353
+    second: blue Idle Animation Pharroh_13
+  - first:
+      213: 4602417147494511637
+    second: blue Idle Animation Pharroh_14
+  - first:
+      213: -3282292570359338346
+    second: blue Idle Animation Pharroh_15
+  - first:
+      213: 7631452498135523853
+    second: blue Idle Animation Pharroh_16
+  - first:
+      213: 5796226846938033211
+    second: blue Idle Animation Pharroh_17
+  - first:
+      213: -6261600993539804627
+    second: blue Idle Animation Pharroh_18
+  - first:
+      213: -6769254363885778595
+    second: blue Idle Animation Pharroh_19
+  - first:
+      213: -4634041778204158013
+    second: blue Idle Animation Pharroh_20
+  - first:
+      213: -3941568775761127612
+    second: blue Idle Animation Pharroh_21
+  - first:
+      213: 5201375150285827224
+    second: blue Idle Animation Pharroh_22
+  - first:
+      213: 4838976668644169004
+    second: blue Idle Animation Pharroh_23
+  - first:
+      213: 6278292818428008641
+    second: blue Idle Animation Pharroh_24
+  - first:
+      213: -5011160873418720477
+    second: blue Idle Animation Pharroh_25
+  - first:
+      213: -4501165413756451639
+    second: blue Idle Animation Pharroh_26
+  - first:
+      213: 8072336065761333743
+    second: blue Idle Animation Pharroh_27
+  - first:
+      213: 3101667335482358748
+    second: blue Idle Animation Pharroh_28
+  - first:
+      213: -933987338588007468
+    second: blue Idle Animation Pharroh_29
+  - first:
+      213: 1375263080527189267
+    second: blue Idle Animation Pharroh_30
+  - first:
+      213: 7467601306633713689
+    second: blue Idle Animation Pharroh_31
+  - first:
+      213: -3879111069981857829
+    second: blue Idle Animation Pharroh_32
+  - first:
+      213: 2192544332538770133
+    second: blue Idle Animation Pharroh_33
+  - first:
+      213: -8314335048416551856
+    second: blue Idle Animation Pharroh_34
+  - first:
+      213: -5917135888389711019
+    second: blue Idle Animation Pharroh_35
+  - first:
+      213: 3233199241031955884
+    second: blue Idle Animation Pharroh_36
+  - first:
+      213: -6221231376802518529
+    second: blue Idle Animation Pharroh_37
+  - first:
+      213: 7493553493733412111
+    second: blue Idle Animation Pharroh_38
+  - first:
+      213: -6264960272094523280
+    second: blue Idle Animation Pharroh_39
+  - first:
+      213: -2728713339101512668
+    second: blue Idle Animation Pharroh_40
+  - first:
+      213: -4980836772801648963
+    second: blue Idle Animation Pharroh_41
+  - first:
+      213: -7127576567391692876
+    second: blue Idle Animation Pharroh_42
+  - first:
+      213: 2686410431892109533
+    second: blue Idle Animation Pharroh_43
+  - first:
+      213: -1653524895262644890
+    second: blue Idle Animation Pharroh_44
+  - first:
+      213: 6461799023000126444
+    second: blue Idle Animation Pharroh_45
+  - first:
+      213: 1945979141718427363
+    second: blue Idle Animation Pharroh_46
+  - first:
+      213: -5777721095778749037
+    second: blue Idle Animation Pharroh_47
+  - first:
+      213: 3644679923082166655
+    second: blue Idle Animation Pharroh_48
+  - first:
+      213: -6319954170068878896
+    second: blue Idle Animation Pharroh_49
+  - first:
+      213: -4988656409363558705
+    second: blue Idle Animation Pharroh_50
+  - first:
+      213: 4342503979137616830
+    second: blue Idle Animation Pharroh_51
+  - first:
+      213: -6769901525352875480
+    second: blue Idle Animation Pharroh_52
+  - first:
+      213: 2873579939989066868
+    second: blue Idle Animation Pharroh_53
+  - first:
+      213: 7582846635336740307
+    second: blue Idle Animation Pharroh_54
+  - first:
+      213: -914548772695477341
+    second: blue Idle Animation Pharroh_55
+  - first:
+      213: -1345455557338866005
+    second: blue Idle Animation Pharroh_56
+  - first:
+      213: -710485557000843381
+    second: blue Idle Animation Pharroh_57
+  - first:
+      213: 5754270738164509867
+    second: blue Idle Animation Pharroh_58
+  - first:
+      213: -5108209193483547415
+    second: blue Idle Animation Pharroh_59
+  - first:
+      213: 5268787341779920630
+    second: blue Idle Animation Pharroh_60
+  - first:
+      213: 1983725754330860827
+    second: blue Idle Animation Pharroh_61
+  - first:
+      213: 3102457347870445905
+    second: blue Idle Animation Pharroh_62
+  - first:
+      213: 3401429971221331240
+    second: blue Idle Animation Pharroh_63
+  - first:
+      213: -6034860487012478583
+    second: blue Idle Animation Pharroh_64
+  - first:
+      213: -3417341850222025790
+    second: blue Idle Animation Pharroh_65
+  - first:
+      213: 3771682297337043084
+    second: blue Idle Animation Pharroh_66
+  - first:
+      213: -7776343597273448648
+    second: blue Idle Animation Pharroh_67
+  - first:
+      213: -7881581956101874935
+    second: blue Idle Animation Pharroh_68
+  - first:
+      213: -2631880275563662261
+    second: blue Idle Animation Pharroh_69
+  - first:
+      213: -6359225604264671906
+    second: blue Idle Animation Pharroh_70
+  - first:
+      213: 4079260226153675051
+    second: blue Idle Animation Pharroh_71
+  - first:
+      213: -2438769997816458363
+    second: blue Idle Animation Pharroh_72
+  - first:
+      213: 2530956653296337109
+    second: blue Idle Animation Pharroh_73
+  - first:
+      213: 5145788973716395746
+    second: blue Idle Animation Pharroh_74
+  - first:
+      213: -8576908956016721684
+    second: blue Idle Animation Pharroh_75
+  - first:
+      213: -7557627894302382658
+    second: blue Idle Animation Pharroh_76
+  - first:
+      213: -7582035101902689247
+    second: blue Idle Animation Pharroh_77
+  - first:
+      213: -935146134013252464
+    second: blue Idle Animation Pharroh_78
+  - first:
+      213: -3435899719382687793
+    second: blue Idle Animation Pharroh_79
+  - first:
+      213: 2274471717034541756
+    second: blue Idle Animation Pharroh_80
+  - first:
+      213: -2690668179963840977
+    second: blue Idle Animation Pharroh_81
+  - first:
+      213: -6401789210333245912
+    second: blue Idle Animation Pharroh_82
+  - first:
+      213: 867555412491189411
+    second: blue Idle Animation Pharroh_83
+  - first:
+      213: 4748570581644141158
+    second: blue Idle Animation Pharroh_84
+  - first:
+      213: 871362166624480817
+    second: blue Idle Animation Pharroh_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2533
+        width: 433
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f80d0bdbd7429150800000000000000
+      internalID: 5877839473270393076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_1
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2540
+        width: 434
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e4ac1dfa779a160800000000000000
+      internalID: 7037287489765789218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_2
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 2777
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e76610b013c14d0800000000000000
+      internalID: -3162598914983035331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2560
+        width: 434
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e38f1bfe73ed3c0800000000000000
+      internalID: -4332964288861290876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_4
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2797
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41115f4bd1d735410800000000000000
+      internalID: 1464651870369026324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2753
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e448f59d22635a60800000000000000
+      internalID: 7661575339016471780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2090
+        width: 305
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cf34c0d43d37870800000000000000
+      internalID: 8679513234744802315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2516
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f06936de51ac0d0800000000000000
+      internalID: -3401882459202777236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_8
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2117
+        width: 287
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30591d4785030e350800000000000000
+      internalID: 6043883856406353155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_9
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2136
+        width: 326
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a77ae0af6b6d160800000000000000
+      internalID: 7050023451799026214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2357
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61963efe736c5f280800000000000000
+      internalID: -9010077535934650090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2358
+        width: 22
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb52fec72212273e0800000000000000
+      internalID: -2057545647746243141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2350
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa270a7337b8b7eb0800000000000000
+      internalID: -4721026457397071185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_13
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2366
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9345b0ccb6a91d0800000000000000
+      internalID: -3343241249261602353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_14
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2385
+        width: 22
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514b390d2021fdf30800000000000000
+      internalID: 4602417147494511637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_15
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2376
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ae3de2c44f272d0800000000000000
+      internalID: -3282292570359338346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_16
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2385
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a2a72d9d58e960800000000000000
+      internalID: 7631452498135523853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_17
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 2395
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ce2598b95507050800000000000000
+      internalID: 5796226846938033211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_18
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2379
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22b3de52135a19a0800000000000000
+      internalID: -6261600993539804627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2352
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5943566507ce02a0800000000000000
+      internalID: -6769254363885778595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_20
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2264
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c752df0e8390bfb0800000000000000
+      internalID: -4634041778204158013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_21
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 2292
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4479cfee41cbc49c0800000000000000
+      internalID: -3941568775761127612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_22
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 2282
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ca450242ffe2840800000000000000
+      internalID: 5201375150285827224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_23
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2237
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2550f264af772340800000000000000
+      internalID: 4838976668644169004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_24
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2222
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c89946fd0af02750800000000000000
+      internalID: 6278292818428008641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_25
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2203
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b7a836cb7c47ab0800000000000000
+      internalID: -5011160873418720477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2176
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4c5c587e5a881c0800000000000000
+      internalID: -4501165413756451639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_27
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 2191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1574bf1e2b60070800000000000000
+      internalID: 8072336065761333743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_28
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2168
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbbbde12065b0b20800000000000000
+      internalID: 3101667335482358748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2141
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3dfbac67fc903f0800000000000000
+      internalID: -933987338588007468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1578
+        width: 411
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315588b3c7ae51310800000000000000
+      internalID: 1375263080527189267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_31
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1784
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9183526c2df32a760800000000000000
+      internalID: 7467601306633713689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_32
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1560
+        width: 433
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd72275c801aa2ac0800000000000000
+      internalID: -3879111069981857829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_33
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1797
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2f44f247b7d6e10800000000000000
+      internalID: 2192544332538770133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_34
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1551
+        width: 437
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c1d8f135c8d9c80800000000000000
+      internalID: -8314335048416551856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_35
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1788
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bd0d4824c12eda0800000000000000
+      internalID: -5917135888389711019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1404
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b5c95491aedc20800000000000000
+      internalID: 3233199241031955884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1155
+        width: 305
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9eb28360fb9a9a0800000000000000
+      internalID: -6221231376802518529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_38
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1415
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d0e5333337ef760800000000000000
+      internalID: 7493553493733412111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_39
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1386
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0701fd163d36e09a0800000000000000
+      internalID: -6264960272094523280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_40
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1167
+        width: 310
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cfbf8eca9a12ad0800000000000000
+      internalID: -2728713339101512668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_41
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1397
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db664f0485380eab0800000000000000
+      internalID: -4980836772801648963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_42
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1377
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7583f10e2c51d90800000000000000
+      internalID: -7127576567391692876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_43
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1127
+        width: 305
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd835d9fd0c084520800000000000000
+      internalID: 2686410431892109533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_44
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1389
+        width: 22
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665ea965edf7d09e0800000000000000
+      internalID: -1653524895262644890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_45
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1388
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce383efa9fbeca950800000000000000
+      internalID: 6461799023000126444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_46
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1302
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6427a18b1810b10800000000000000
+      internalID: 1945979141718427363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_47
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1284
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395b3da664961dfa0800000000000000
+      internalID: -5777721095778749037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_48
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1274
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f718f476411849230800000000000000
+      internalID: 3644679923082166655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_49
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1241
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9bb48ba230b48a0800000000000000
+      internalID: -6319954170068878896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_50
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1223
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec86d3d6bb4cab0800000000000000
+      internalID: -4988656409363558705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_51
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1213
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbc7388c5ca34c30800000000000000
+      internalID: 4342503979137616830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_52
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1211
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a77f06e6a7c02a0800000000000000
+      internalID: -6769901525352875480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_53
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4749cb40bb101e720800000000000000
+      internalID: 2873579939989066868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_54
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1178
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd2385d6deab3960800000000000000
+      internalID: 7582846635336740307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 556
+        width: 434
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a377b99cbede43f0800000000000000
+      internalID: -914548772695477341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 776
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeddb39c4bf35de0800000000000000
+      internalID: -1345455557338866005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_57
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 545
+        width: 434
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4be47629d326f0800000000000000
+      internalID: -710485557000843381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_58
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 765
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac68b9bfb64bdf40800000000000000
+      internalID: 5754270738164509867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_59
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 527
+        width: 434
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec47009dcefb19b0800000000000000
+      internalID: -5108209193483547415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_60
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 747
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6eddf0c2e7e1940800000000000000
+      internalID: 5268787341779920630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_61
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 114
+        width: 309
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d4fa6301c978b10800000000000000
+      internalID: 1983725754330860827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_62
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 539
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1515e9635842e0b20800000000000000
+      internalID: 3102457347870445905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_63
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 528
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82db30b898e443f20800000000000000
+      internalID: 3401429971221331240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_64
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 510
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98194927c5edf3ca0800000000000000
+      internalID: -6034860487012478583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 363
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3a07d61b92390d0800000000000000
+      internalID: -3417341850222025790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_66
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 374
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c885762f015b75430800000000000000
+      internalID: 3771682297337043084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_67
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 351
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ff129f2b0e41490800000000000000
+      internalID: -7776343597273448648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_68
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 102
+        width: 307
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b5b6628fefe9290800000000000000
+      internalID: -7881581956101874935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_69
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 362
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44bbab65dea97bd0800000000000000
+      internalID: -2631880275563662261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_70
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 333
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e554c3b610e7fb7a0800000000000000
+      internalID: -6359225604264671906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_71
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 84
+        width: 308
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29f44610917c9830800000000000000
+      internalID: 4079260226153675051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_72
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 344
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583154fab9fb72ed0800000000000000
+      internalID: -2438769997816458363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_73
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 271
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0c3a5aaa3cf1320800000000000000
+      internalID: 2530956653296337109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_74
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 261
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6dc7bdec3896740800000000000000
+      internalID: 5145788973716395746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_75
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 259
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0c1c53fb2b8f880800000000000000
+      internalID: -8576908956016721684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_76
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 249
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e58fd879ed1790800000000000000
+      internalID: -7557627894302382658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_77
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 241
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c2c840f3337c690800000000000000
+      internalID: -7582035101902689247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_78
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 231
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c6f05bb81b503f0800000000000000
+      internalID: -935146134013252464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_79
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 209
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf945ec86b3150d0800000000000000
+      internalID: -3435899719382687793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 200
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb24489d9fb809f10800000000000000
+      internalID: 2274471717034541756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_81
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 188
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26fecccb83d8aad0800000000000000
+      internalID: -2690668179963840977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_82
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e882f91a64827a0800000000000000
+      internalID: -6401789210333245912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_83
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 170
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac31881d0d2a0c00800000000000000
+      internalID: 867555412491189411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_84
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 158
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662e4c5f8cf46e140800000000000000
+      internalID: 4748570581644141158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue Idle Animation Pharroh_85
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 140
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eed5c1643b71c00800000000000000
+      internalID: 871362166624480817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
