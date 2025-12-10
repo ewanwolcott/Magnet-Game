@@ -12,6 +12,7 @@ public class Playermovement : MonoBehaviour
     [Header("Player Component Refrences")]
     public  Rigidbody2D rb;
     [SerializeField] SpriteRenderer sr;
+    private Animator anim;
 
     [Header("Player Settings")]
     public float acceleration;
@@ -42,7 +43,10 @@ public class Playermovement : MonoBehaviour
     public bool hasRed;
     public bool hasBlue;
 
-
+    private void Awake()
+    {
+        anim = GetComponent<Animator>();
+    }
 
     private IEnumerator Dashtrail()
     {
@@ -63,7 +67,6 @@ public class Playermovement : MonoBehaviour
             rb.AddForceY(vertical * acceleration);
         }
         
-        sr.color = polarityColor;
         if(rb.linearVelocityX < -topSpeed)
         {
             rb.linearVelocityX -= -topSpeed/6;
@@ -89,7 +92,7 @@ public class Playermovement : MonoBehaviour
             if (hasRed)
             {
                 polarity = 1;
-                polarityColor = new Color32(255, 0, 0, 255);
+                anim.SetFloat("Polarity", 1);
             }
         }
         else if (Input.GetMouseButton(0)) // when left mouse button is down
@@ -97,14 +100,14 @@ public class Playermovement : MonoBehaviour
             if (hasBlue)
             {
                 polarity = -1;
-                polarityColor = new Color32(0, 0, 255, 255);
+                anim.SetFloat("Polarity",-1);
             }
-            
+
         }
         else
         {
             polarity = 0;
-            polarityColor = new Color32(255, 255, 255, 255);
+            anim.SetFloat("Polarity", 0);
         }
 
         if (Input.GetKeyDown(KeyCode.LeftShift) && isDashing == true)
