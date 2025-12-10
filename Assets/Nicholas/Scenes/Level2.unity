@@ -8568,6 +8568,10 @@ PrefabInstance:
       propertyPath: mp
       value: 
       objectReference: {fileID: 1785400149}
+    - target: {fileID: 3346825933001345928, guid: c57597573bf794a4688649b236666e6d, type: 3}
+      propertyPath: activated
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 8199806031951441984, guid: c57597573bf794a4688649b236666e6d, type: 3}
       propertyPath: m_Name
       value: Light1
