@@ -129,12 +129,12 @@ TextureImporter:
       name: spotllight white top_0
       rect:
         serializedVersion: 2
-        x: 83
-        y: 123
-        width: 323
-        height: 286
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 69
+        y: 120
+        width: 363
+        height: 303
+      alignment: 9
+      pivot: {x: 0.759, y: 0.72}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c502872efd22e37428c096523dcc7b40
     internalID: 0
     vertices: []
     indices: 
