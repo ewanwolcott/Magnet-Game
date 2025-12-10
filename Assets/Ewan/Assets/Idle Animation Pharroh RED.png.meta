@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 30071d2ebc6842a4e83ad6d35393f2f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6380538172242411643
+    second: Idle Animation Pharroh RED_0
+  - first:
+      213: 8284810126622695367
+    second: Idle Animation Pharroh RED_1
+  - first:
+      213: -264674297846333869
+    second: Idle Animation Pharroh RED_2
+  - first:
+      213: -2181615676181130261
+    second: Idle Animation Pharroh RED_3
+  - first:
+      213: 4138505137357358651
+    second: Idle Animation Pharroh RED_4
+  - first:
+      213: -65444750248196374
+    second: Idle Animation Pharroh RED_5
+  - first:
+      213: 4994938390943051413
+    second: Idle Animation Pharroh RED_6
+  - first:
+      213: 2717595039795513007
+    second: Idle Animation Pharroh RED_7
+  - first:
+      213: -7309326330977870554
+    second: Idle Animation Pharroh RED_8
+  - first:
+      213: -1256230395769316988
+    second: Idle Animation Pharroh RED_9
+  - first:
+      213: -3186069949692139132
+    second: Idle Animation Pharroh RED_10
+  - first:
+      213: -3472903682051361766
+    second: Idle Animation Pharroh RED_11
+  - first:
+      213: -4767774672704465075
+    second: Idle Animation Pharroh RED_12
+  - first:
+      213: -5607629508115950073
+    second: Idle Animation Pharroh RED_13
+  - first:
+      213: -5810115803816638455
+    second: Idle Animation Pharroh RED_14
+  - first:
+      213: -6282798585762473869
+    second: Idle Animation Pharroh RED_15
+  - first:
+      213: 5863523020203740798
+    second: Idle Animation Pharroh RED_16
+  - first:
+      213: -7345386431608731420
+    second: Idle Animation Pharroh RED_17
+  - first:
+      213: 5658749558613252501
+    second: Idle Animation Pharroh RED_18
+  - first:
+      213: 8629858139660304928
+    second: Idle Animation Pharroh RED_19
+  - first:
+      213: -2953416371934159737
+    second: Idle Animation Pharroh RED_20
+  - first:
+      213: -1023678351179475115
+    second: Idle Animation Pharroh RED_21
+  - first:
+      213: -2321360741700028753
+    second: Idle Animation Pharroh RED_22
+  - first:
+      213: 3588279364880724230
+    second: Idle Animation Pharroh RED_23
+  - first:
+      213: -8309060573450237374
+    second: Idle Animation Pharroh RED_24
+  - first:
+      213: 7769902135004830024
+    second: Idle Animation Pharroh RED_25
+  - first:
+      213: -2212468982110111705
+    second: Idle Animation Pharroh RED_26
+  - first:
+      213: -8553574552433402262
+    second: Idle Animation Pharroh RED_27
+  - first:
+      213: -6108673090469669356
+    second: Idle Animation Pharroh RED_28
+  - first:
+      213: 5294484328801156358
+    second: Idle Animation Pharroh RED_29
+  - first:
+      213: 6423172243024313969
+    second: Idle Animation Pharroh RED_30
+  - first:
+      213: 4972495386418028407
+    second: Idle Animation Pharroh RED_31
+  - first:
+      213: -201951051889836413
+    second: Idle Animation Pharroh RED_32
+  - first:
+      213: -9080840710791689224
+    second: Idle Animation Pharroh RED_33
+  - first:
+      213: -3636427661963833227
+    second: Idle Animation Pharroh RED_34
+  - first:
+      213: -6376436048857329647
+    second: Idle Animation Pharroh RED_35
+  - first:
+      213: -5751903271340530014
+    second: Idle Animation Pharroh RED_36
+  - first:
+      213: -2231370038493912295
+    second: Idle Animation Pharroh RED_37
+  - first:
+      213: 609930576358327231
+    second: Idle Animation Pharroh RED_38
+  - first:
+      213: 619445656673531860
+    second: Idle Animation Pharroh RED_39
+  - first:
+      213: -2519758217059706241
+    second: Idle Animation Pharroh RED_40
+  - first:
+      213: 6046664896392587000
+    second: Idle Animation Pharroh RED_41
+  - first:
+      213: -6176375724407506724
+    second: Idle Animation Pharroh RED_42
+  - first:
+      213: -2098083535991023175
+    second: Idle Animation Pharroh RED_43
+  - first:
+      213: 8065744580200101234
+    second: Idle Animation Pharroh RED_44
+  - first:
+      213: 1848411134152990072
+    second: Idle Animation Pharroh RED_45
+  - first:
+      213: -44505902217665070
+    second: Idle Animation Pharroh RED_46
+  - first:
+      213: 9162296110395383823
+    second: Idle Animation Pharroh RED_47
+  - first:
+      213: -8429326723774604555
+    second: Idle Animation Pharroh RED_48
+  - first:
+      213: 2770551883953926973
+    second: Idle Animation Pharroh RED_49
+  - first:
+      213: 5089424929454512775
+    second: Idle Animation Pharroh RED_50
+  - first:
+      213: -1714242189616822434
+    second: Idle Animation Pharroh RED_51
+  - first:
+      213: 7914885892382384223
+    second: Idle Animation Pharroh RED_52
+  - first:
+      213: 1550938523265178760
+    second: Idle Animation Pharroh RED_53
+  - first:
+      213: 8779157655589971573
+    second: Idle Animation Pharroh RED_54
+  - first:
+      213: -2001302278940458607
+    second: Idle Animation Pharroh RED_55
+  - first:
+      213: 5209457961197087849
+    second: Idle Animation Pharroh RED_56
+  - first:
+      213: -3319069441712803540
+    second: Idle Animation Pharroh RED_57
+  - first:
+      213: 6091301455583473979
+    second: Idle Animation Pharroh RED_58
+  - first:
+      213: -4306106169773392223
+    second: Idle Animation Pharroh RED_59
+  - first:
+      213: 1759042521301989174
+    second: Idle Animation Pharroh RED_60
+  - first:
+      213: -9128086497035909543
+    second: Idle Animation Pharroh RED_61
+  - first:
+      213: 4840583979078015014
+    second: Idle Animation Pharroh RED_62
+  - first:
+      213: -2972238304556911072
+    second: Idle Animation Pharroh RED_63
+  - first:
+      213: -5861337675380220028
+    second: Idle Animation Pharroh RED_64
+  - first:
+      213: 3230042909848875404
+    second: Idle Animation Pharroh RED_65
+  - first:
+      213: 5063258947998433307
+    second: Idle Animation Pharroh RED_66
+  - first:
+      213: -3217428215221717811
+    second: Idle Animation Pharroh RED_67
+  - first:
+      213: -3471968048917124822
+    second: Idle Animation Pharroh RED_68
+  - first:
+      213: -4377849247833571533
+    second: Idle Animation Pharroh RED_69
+  - first:
+      213: 7913058835728727437
+    second: Idle Animation Pharroh RED_70
+  - first:
+      213: -6209395066881771902
+    second: Idle Animation Pharroh RED_71
+  - first:
+      213: 563970466898762946
+    second: Idle Animation Pharroh RED_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Animation Pharroh RED_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c7e1e34f9a73438444d0954390feb
+      internalID: 1758683565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Animation Pharroh RED_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d54229e1773d3f49bed095451b813d8
+      internalID: -1495160569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Animation Pharroh RED_2
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1e5cee10383648ab6e8e16efd098d
+      internalID: 797021548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Animation Pharroh RED_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ea0c658efef254683500d23ace2bec
+      internalID: 2018567404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Animation Pharroh RED_4
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c5278c1b2d7444091a8603496caa8c
+      internalID: 846316148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Animation Pharroh RED_5
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1000
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0c3e38051bc847981f2fbe6394b08
+      internalID: 805849375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Animation Pharroh RED_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e78682404589af4e98641cf574630f0
+      internalID: 768030114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Animation Pharroh RED_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de22834cba78c6498fc49aee161be9c
+      internalID: 1099055460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Animation Pharroh RED_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 666
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbd8e6b80c6dc84e86162e273181281
+      internalID: -1026860695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 16228d97cc834b64b98926d9b4e687e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle Animation Pharroh RED_0: 1758683565
+      Idle Animation Pharroh RED_1: -1495160569
+      Idle Animation Pharroh RED_2: 797021548
+      Idle Animation Pharroh RED_3: 2018567404
+      Idle Animation Pharroh RED_4: 846316148
+      Idle Animation Pharroh RED_5: 805849375
+      Idle Animation Pharroh RED_6: 768030114
+      Idle Animation Pharroh RED_7: 1099055460
+      Idle Animation Pharroh RED_8: -1026860695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
