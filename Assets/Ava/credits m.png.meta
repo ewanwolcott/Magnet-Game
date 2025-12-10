@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f19e2209b3ed8a74e8bc94f7a2ac0130
+guid: 89d987e294f73c94798483ec3bbd6b42
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8957658297864603800
-    second: spotllight white top_0
+      213: -9172846589390019590
+    second: credits m_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spotllight white top_0
+      name: credits m_0
       rect:
         serializedVersion: 2
-        x: 69
-        y: 120
-        width: 363
-        height: 303
-      alignment: 9
-      pivot: {x: 0.759, y: 0.72}
+        x: 0
+        y: 0
+        width: 1902
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8673370ec3100b380800000000000000
-      internalID: -8957658297864603800
+      spriteID: af3214470a083b080800000000000000
+      internalID: -9172846589390019590
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c502872efd22e37428c096523dcc7b40
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spotllight white top_0: -8957658297864603800
+      credits m_0: -9172846589390019590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
