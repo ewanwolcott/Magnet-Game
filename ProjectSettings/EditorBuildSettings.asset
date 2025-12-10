@@ -9,13 +9,13 @@ EditorBuildSettings:
     path: Assets/Matthew/scenes/Title_Screne.unity
     guid: 8986a0930ed60ba4ca58eb811dfb9edf
   - enabled: 1
-    path: Assets/Nicholas/Scenes/Level1.unity
+    path: Assets/Matthew/Nicholas/Scenes/Level1.unity
     guid: 99aabb57505808542a4cefc6e9ae9ab0
   - enabled: 1
-    path: Assets/Nicholas/Scenes/Level2.unity
+    path: Assets/Matthew/Nicholas/Scenes/Level2.unity
     guid: 4b0fa11999f2b3a499f73183113d4735
   - enabled: 1
-    path: Assets/Nicholas/Scenes/Level3.unity
+    path: Assets/Matthew/Nicholas/Scenes/Level3.unity
     guid: 424bfd22e6f96984e8adafc518e0fcb6
   - enabled: 1
     path: Assets/Matthew/scenes/Credits.unity
