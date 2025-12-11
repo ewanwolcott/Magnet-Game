@@ -100752,7 +100752,7 @@ MonoBehaviour:
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
-    FieldOfView: 110
+    FieldOfView: 90
     OrthographicSize: 10
     NearClipPlane: 0.3
     FarClipPlane: 1000
@@ -106479,7 +106479,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6479350952610681226, guid: c49b17c34212c6d429da1137d43fa9cf, type: 3}
       propertyPath: field of view
-      value: 110
+      value: 90
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
