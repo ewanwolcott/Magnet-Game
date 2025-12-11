@@ -109576,7 +109576,7 @@ PrefabInstance:
       objectReference: {fileID: 668406331}
     - target: {fileID: 5639279800442064422, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: polarity
-      value: -1
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6588816947504391136, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: m_Name
@@ -110940,7 +110940,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1065779558
 MonoBehaviour:
   m_ObjectHideFlags: 0
