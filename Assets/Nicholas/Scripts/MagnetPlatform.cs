@@ -110,7 +110,7 @@ public class MagnetPlatform : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             Playermovement pm = collision.GetComponent<Playermovement>();
-            if(pm.rb.gravityScale != 0)
+            if(pm.rb.gravityScale != 0 && polarity == 0)
             {
                 pm.rb.gravityScale = 0;
             }
