@@ -93,7 +93,8 @@ public class Playermovement : MonoBehaviour
             {
                 polarity = 1;
                 anim.SetFloat("Polarity", 1);
-            }
+                polarityColor = new Color(255,0,0,255);
+}
         }
         else if (Input.GetMouseButton(0)) // when left mouse button is down
         {
@@ -101,6 +102,7 @@ public class Playermovement : MonoBehaviour
             {
                 polarity = -1;
                 anim.SetFloat("Polarity",-1);
+                polarityColor = new Color(0, 100, 255, 255);
             }
 
         }
@@ -108,7 +110,9 @@ public class Playermovement : MonoBehaviour
         {
             polarity = 0;
             anim.SetFloat("Polarity", 0);
+            polarityColor = new Color(255, 255, 255, 255);
         }
+        sr.color = polarityColor;
 
         if (Input.GetKeyDown(KeyCode.LeftShift) && isDashing == true)
         {
