@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ea8183ec4f88d534b9210e147245ac91
+guid: e95831649e9d71246a8d0c29acb7189d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4880259802306411736
-    second: magnet bubbles_0
+      213: 5160160836190405319
+    second: magnet bubbles11_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: magnet bubbles_0
+      name: magnet bubbles11_0
       rect:
         serializedVersion: 2
-        x: 526
-        y: 407
-        width: 5002
-        height: 4982
+        x: 0
+        y: 0
+        width: 6000
+        height: 6000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8dc7718fe6a2ab340800000000000000
-      internalID: 4880259802306411736
+      spriteID: 7c20309d0f29c9740800000000000000
+      internalID: 5160160836190405319
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      magnet bubbles_0: 4880259802306411736
+      magnet bubbles11_0: 5160160836190405319
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
