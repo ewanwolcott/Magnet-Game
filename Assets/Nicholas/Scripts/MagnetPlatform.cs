@@ -105,4 +105,15 @@ public class MagnetPlatform : MonoBehaviour
         }
         
     }
+    public void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            Playermovement pm = collision.GetComponent<Playermovement>();
+            if(pm.rb.gravityScale != 0 && polarity == 0)
+            {
+                pm.rb.gravityScale = 0;
+            }
+        }
+    }
 }

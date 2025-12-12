@@ -15,7 +15,6 @@ public class Spotlight : MonoBehaviour
 
     public void Awake()
     {
-        activated = -1;
         originPolarity = mp.polarity;
         originAF = mp.attractionForce;
     }
