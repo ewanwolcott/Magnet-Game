@@ -129,10 +129,10 @@ TextureImporter:
       name: floodlight_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 211
-        width: 372
-        height: 128
+        x: 60
+        y: 212
+        width: 373
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      floodlight_0: -2492874847440066209
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -129,10 +129,10 @@ TextureImporter:
       name: spotllight top_0
       rect:
         serializedVersion: 2
-        x: 83
-        y: 123
-        width: 323
-        height: 286
+        x: 153
+        y: 67
+        width: 249
+        height: 343
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
