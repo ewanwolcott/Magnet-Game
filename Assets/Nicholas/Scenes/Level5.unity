@@ -109725,6 +109725,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Finish Point
       objectReference: {fileID: 0}
+    - target: {fileID: 4342241440834471473, guid: a6705a3f93fd02243ab22e673b7a06cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7948091490985495576, guid: a6705a3f93fd02243ab22e673b7a06cc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 87
