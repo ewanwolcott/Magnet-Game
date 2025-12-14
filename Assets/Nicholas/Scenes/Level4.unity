@@ -2616,7 +2616,7 @@ RectTransform:
   m_Father: {fileID: 208069828}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0.75, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -7486,7 +7486,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5639279800442064422, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: attractionForce
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6588816947504391136, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: m_Name
@@ -9056,8 +9056,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1785823811}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMin: {x: 0.75, y: 0}
+  m_AnchorMax: {x: 0.75, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -9118,7 +9118,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1421922272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -204275,7 +204275,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5639279800442064422, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: attractionForce
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6588816947504391136, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: m_Name
@@ -205283,7 +205283,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1891035325
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -205443,7 +205443,7 @@ PrefabInstance:
       objectReference: {fileID: 1706838511}
     - target: {fileID: 5639279800442064422, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: attractionForce
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6588816947504391136, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: m_Name
