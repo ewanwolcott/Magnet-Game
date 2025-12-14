@@ -102,7 +102,7 @@ GameObject:
   - component: {fileID: 33973261198116796}
   - component: {fileID: 3346825933001345928}
   m_Layer: 8
-  m_Name: Light1
+  m_Name: Light2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -168,7 +168,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8957658297864603800, guid: f19e2209b3ed8a74e8bc94f7a2ac0130, type: 3}
+  m_Sprite: {fileID: 7737919652461825686, guid: d6d1c6f67f2757349a8cf8189052fff4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -216,8 +216,8 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.67}
-    oldSize: {x: 0.37, y: 0.632}
+    pivot: {x: 0.5, y: 0.72}
+    oldSize: {x: 0.37, y: 0.686}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -241,7 +241,7 @@ MonoBehaviour:
   m_LightType: 3
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.620283, g: 0.24056602, b: 1, a: 1}
   m_Intensity: 0.3
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 1
@@ -318,5 +318,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   l2d: {fileID: 4964635777619459009}
   mp: {fileID: 0}
-  activated: 0
-  type: switch
+  activated: -1
+  type: zerog
