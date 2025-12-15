@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,12 +129,12 @@ TextureImporter:
       name: spotllight top_0
       rect:
         serializedVersion: 2
-        x: 83
-        y: 123
-        width: 323
-        height: 286
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 153
+        y: 67
+        width: 185
+        height: 343
+      alignment: 9
+      pivot: {x: 0.5, y: 0.72}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3438242d9b450264ba7bcc1d966cc8bd
     internalID: 0
     vertices: []
     indices: 
