@@ -99592,11 +99592,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4938172391184871066, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 4938172391184871066, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.5
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4938172391184871066, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.020000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4938172391184871066, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5639279800442064422, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: tm
@@ -99617,7 +99625,7 @@ PrefabInstance:
     - target: {fileID: 5787514083520612106, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -9095717837082945937, guid: bd3cb4af8406d4436a2ae8c2aafe1f8d, type: 3}
+      objectReference: {fileID: 5160160836190405319, guid: e95831649e9d71246a8d0c29acb7189d, type: 3}
     - target: {fileID: 6588816947504391136, guid: 274e31f5268e11141a2c33a938c26998, type: 3}
       propertyPath: m_Name
       value: Magnet3
