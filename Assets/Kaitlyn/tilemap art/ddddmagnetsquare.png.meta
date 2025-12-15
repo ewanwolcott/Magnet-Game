@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: aa67cbd6582474e44a7dbb289e7661e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 521667672627642949
+    second: ddddmagnetsquare_0
+  - first:
+      213: -4876679542748730558
+    second: ddddmagnetsquare_1
+  - first:
+      213: -5929316997498594462
+    second: ddddmagnetsquare_2
+  - first:
+      213: 7261408792375971705
+    second: ddddmagnetsquare_3
+  - first:
+      213: 3385475540356336586
+    second: ddddmagnetsquare_4
+  - first:
+      213: 7342549525607595131
+    second: ddddmagnetsquare_5
+  - first:
+      213: 3372325404066970404
+    second: ddddmagnetsquare_6
+  - first:
+      213: -1833922094037726217
+    second: ddddmagnetsquare_7
+  - first:
+      213: 8938512070905991359
+    second: ddddmagnetsquare_8
+  - first:
+      213: -6138003067526139444
+    second: ddddmagnetsquare_9
+  - first:
+      213: 5528925575270591968
+    second: ddddmagnetsquare_10
+  - first:
+      213: 330631515527131987
+    second: ddddmagnetsquare_11
+  - first:
+      213: 3030874425904463290
+    second: ddddmagnetsquare_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ddddmagnetsquare_0
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1199
+        width: 18886
+        height: 3801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54286cdfbf55d3700800000000000000
+      internalID: 521667672627642949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_1
+      rect:
+        serializedVersion: 2
+        x: 19423
+        y: 4208
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b2c0b2bcd825cb0800000000000000
+      internalID: -4876679542748730558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_2
+      rect:
+        serializedVersion: 2
+        x: 19420
+        y: 4172
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b196b0b95d6bda0800000000000000
+      internalID: -5929316997498594462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_3
+      rect:
+        serializedVersion: 2
+        x: 19422
+        y: 4174
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fc776f2d4b5c460800000000000000
+      internalID: 7261408792375971705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_4
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 4095
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb86b22110abfe20800000000000000
+      internalID: 3385475540356336586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_5
+      rect:
+        serializedVersion: 2
+        x: 19417
+        y: 4063
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cbd8b14e9f5e560800000000000000
+      internalID: 7342549525607595131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_6
+      rect:
+        serializedVersion: 2
+        x: 19420
+        y: 4069
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bff607618ecce20800000000000000
+      internalID: 3372325404066970404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 4044
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb042f62999c86e0800000000000000
+      internalID: -1833922094037726217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 3857
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb094e6ce59fb0c70800000000000000
+      internalID: 8938512070905991359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_9
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 3819
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1b8d90bbe61daa0800000000000000
+      internalID: -6138003067526139444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_10
+      rect:
+        serializedVersion: 2
+        x: 19539
+        y: 3617
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed63976480babc40800000000000000
+      internalID: 5528925575270591968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_11
+      rect:
+        serializedVersion: 2
+        x: 19597
+        y: 3599
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3533b829c93a69400800000000000000
+      internalID: 330631515527131987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ddddmagnetsquare_12
+      rect:
+        serializedVersion: 2
+        x: 19442
+        y: 3524
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdf9da6b34df0a20800000000000000
+      internalID: 3030874425904463290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ddddmagnetsquare_0: 521667672627642949
+      ddddmagnetsquare_1: -4876679542748730558
+      ddddmagnetsquare_10: 5528925575270591968
+      ddddmagnetsquare_11: 330631515527131987
+      ddddmagnetsquare_12: 3030874425904463290
+      ddddmagnetsquare_2: -5929316997498594462
+      ddddmagnetsquare_3: 7261408792375971705
+      ddddmagnetsquare_4: 3385475540356336586
+      ddddmagnetsquare_5: 7342549525607595131
+      ddddmagnetsquare_6: 3372325404066970404
+      ddddmagnetsquare_7: -1833922094037726217
+      ddddmagnetsquare_8: 8938512070905991359
+      ddddmagnetsquare_9: -6138003067526139444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
