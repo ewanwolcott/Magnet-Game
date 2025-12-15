@@ -11,7 +11,7 @@ public class Playermovement : MonoBehaviour
 
     [Header("Player Component Refrences")]
     public  Rigidbody2D rb;
-    [SerializeField] SpriteRenderer sr;
+    public SpriteRenderer sr;
     private Animator anim;
 
     [Header("Player Settings")]
@@ -42,6 +42,7 @@ public class Playermovement : MonoBehaviour
 
     public bool hasRed;
     public bool hasBlue;
+    public string extraTag;
 
     private void Awake()
     {
@@ -93,7 +94,8 @@ public class Playermovement : MonoBehaviour
             {
                 polarity = 1;
                 anim.SetFloat("Polarity", 1);
-            }
+                polarityColor = new Color(255,0,0,255);
+}
         }
         else if (Input.GetMouseButton(0)) // when left mouse button is down
         {
@@ -101,6 +103,7 @@ public class Playermovement : MonoBehaviour
             {
                 polarity = -1;
                 anim.SetFloat("Polarity",-1);
+                polarityColor = new Color(0, 100, 255, 255);
             }
 
         }
@@ -108,7 +111,13 @@ public class Playermovement : MonoBehaviour
         {
             polarity = 0;
             anim.SetFloat("Polarity", 0);
+            polarityColor = new Color(255, 255, 255, 255);
         }
+        if(extraTag != "dark")
+        {
+            sr.color = polarityColor;
+        }
+        
 
         if (Input.GetKeyDown(KeyCode.LeftShift) && isDashing == true)
         {

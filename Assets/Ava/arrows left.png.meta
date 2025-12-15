@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4cd414e07b2b4be46965144b91cae433
+guid: 2fb15ae6d1ae0bb4f9f24f929b9fd53c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6100293660988917214
-    second: spotllight base_0
+      213: 5631001533475792183
+    second: arrows left_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,43 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spotllight base_0
+      name: arrows left_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 59
-        width: 228
-        height: 158
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed5cfc093c898a450800000000000000
-      internalID: 6100293660988917214
+      spriteID: 73521847f06552e40800000000000000
+      internalID: 5631001533475792183
       vertices: []
       indices: 
       edges: []
@@ -161,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spotllight base_0: 6100293660988917214
+      arrows left_0: 5631001533475792183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

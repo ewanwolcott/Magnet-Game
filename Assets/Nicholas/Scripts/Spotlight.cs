@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Net.Mail;
 using UnityEngine;
 using UnityEngine.Events;
@@ -9,7 +10,10 @@ public class Spotlight : MonoBehaviour
     [SerializeField] MagnetPlatform mp;
     public int activated;
     public string type;
+    public bool timed;
+    public float switchTime;
 
+    //for magnets
     private int originPolarity;
     private float originAF;
 
@@ -17,6 +21,10 @@ public class Spotlight : MonoBehaviour
     {
         originPolarity = mp.polarity;
         originAF = mp.attractionForce;
+        if (timed)
+        {
+            StartCoroutine(SwitchTimeCount(switchTime));
+        }
     }
     public void Activate()
     {
@@ -45,6 +53,16 @@ public class Spotlight : MonoBehaviour
                 mp.polarity = originPolarity;
                 mp.attractionForce = originAF;
             }
+        }
+        
+    }
+    private IEnumerator SwitchTimeCount(float seconds)
+    {
+        while (true)
+        {
+            Debug.Log("switch");
+            Activate();
+            yield return new WaitForSeconds(seconds);
         }
         
     }
