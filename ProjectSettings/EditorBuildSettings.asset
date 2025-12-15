@@ -36,8 +36,14 @@ EditorBuildSettings:
     path: Assets/Nicholas/Scenes/Level5.unity
     guid: 95105607dcdb0ce4ba90ce86188ab55b
   - enabled: 1
+    path: Assets/Nicholas/Scenes/Level6.unity
+    guid: e11da570667c69f468c669b8533332ef
+  - enabled: 1
     path: Assets/Nicholas/Scenes/Level7.unity
     guid: 74fadc362b4a43440999c3771374f485
+  - enabled: 1
+    path: Assets/Nicholas/Scenes/DarkRoom.unity
+    guid: dbe15b9237803464d9ea2b816bda1c1e
   - enabled: 1
     path: Assets/Nicholas/Scenes/Level9.unity
     guid: c523fffbcde6024458c3bd01d154b242

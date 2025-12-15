@@ -11,7 +11,7 @@ public class Playermovement : MonoBehaviour
 
     [Header("Player Component Refrences")]
     public  Rigidbody2D rb;
-    [SerializeField] SpriteRenderer sr;
+    public SpriteRenderer sr;
     private Animator anim;
 
     [Header("Player Settings")]
@@ -42,6 +42,7 @@ public class Playermovement : MonoBehaviour
 
     public bool hasRed;
     public bool hasBlue;
+    public string extraTag;
 
     private void Awake()
     {
@@ -112,7 +113,11 @@ public class Playermovement : MonoBehaviour
             anim.SetFloat("Polarity", 0);
             polarityColor = new Color(255, 255, 255, 255);
         }
-        sr.color = polarityColor;
+        if(extraTag != "dark")
+        {
+            sr.color = polarityColor;
+        }
+        
 
         if (Input.GetKeyDown(KeyCode.LeftShift) && isDashing == true)
         {
