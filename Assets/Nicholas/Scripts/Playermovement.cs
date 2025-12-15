@@ -93,7 +93,7 @@ public class Playermovement : MonoBehaviour
             if (hasRed)
             {
                 polarity = 1;
-                anim.SetFloat("Polarity", 1);
+                //anim.SetFloat("Polarity", 1);
                 polarityColor = new Color(255,0,0,255);
 }
         }
@@ -102,7 +102,7 @@ public class Playermovement : MonoBehaviour
             if (hasBlue)
             {
                 polarity = -1;
-                anim.SetFloat("Polarity",-1);
+                //anim.SetFloat("Polarity",-1);
                 polarityColor = new Color(0, 100, 255, 255);
             }
 
@@ -110,7 +110,7 @@ public class Playermovement : MonoBehaviour
         else
         {
             polarity = 0;
-            anim.SetFloat("Polarity", 0);
+            //anim.SetFloat("Polarity", 0);
             polarityColor = new Color(255, 255, 255, 255);
         }
         if(extraTag != "dark")
