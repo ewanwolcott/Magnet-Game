@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.Universal;
 using UnityEngine.Tilemaps;
 
 public class DarkController : MonoBehaviour
@@ -11,8 +13,11 @@ public class DarkController : MonoBehaviour
     [SerializeField] SpriteRenderer Background2;
     [SerializeField] Playermovement Player;
     [SerializeField] SpriteRenderer PlayerField;
+    [SerializeField] AudioSource au;
+    [SerializeField] Volume vm;
 
     public bool isDark;
+    private bool soundPlayed;
     private void Update()
     {
         if(Player.polarity == -1) // blue
@@ -33,6 +38,7 @@ public class DarkController : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             isDark = true;
+            PlayerField.enabled = true;
             tmGround.color = new Color32(0,0,0,255);
             tmWall.color = new Color32(0,0,0,255);
             Magnet.color = new Color32(0,0,0,255);
@@ -40,6 +46,23 @@ public class DarkController : MonoBehaviour
             Background1.color = new Color32(0,0,0,255);
             Background2.color = new Color32(0,0,0,255);
             Player.sr.color = new Color32(0,0,0,255);
+            // global volume changes
+
+            if (vm.profile.TryGet(out ColorAdjustments colorA))
+            {
+                colorA.active = false;
+            }
+            if (vm.profile.TryGet(out LiftGammaGain lgg))
+            {
+                lgg.active = false;
+            }
+
+
+            if (!soundPlayed)
+            {
+                au.Play();
+                soundPlayed = true;
+            }
         }
     }
 

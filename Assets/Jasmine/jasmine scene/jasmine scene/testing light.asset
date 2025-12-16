@@ -15,7 +15,7 @@ MonoBehaviour:
   active: 1
   lift:
     m_OverrideState: 1
-    m_Value: {x: 0.9696342, y: 0.98825914, z: 1, w: 0.036764774}
+    m_Value: {x: 0.9870062, y: 0.95034057, z: 1, w: 0.036764774}
   gamma:
     m_OverrideState: 1
     m_Value: {x: 0.91108763, y: 0.88388944, z: 1, w: 0.11029413}
@@ -64,14 +64,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   shadows:
-    m_OverrideState: 1
-    m_Value: {x: 0.4167902, y: 0.07804966, z: 1, w: 0.5330883}
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 0, z: 0.24564838, w: 0.2550531}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 0.73841727, y: 0.8362118, z: 1, w: 0.036764715}
+    m_Value: {x: 1, y: 0.78368807, z: 0.83614534, w: -0.1300564}
   highlights:
     m_OverrideState: 1
-    m_Value: {x: 0.29211164, y: 1, z: 0.83070475, w: 1}
+    m_Value: {x: 1, y: 0, z: 0.86122227, w: 0.8433733}
   shadowsStart:
     m_OverrideState: 0
     m_Value: 0
@@ -99,7 +99,7 @@ MonoBehaviour:
   active: 1
   normalBias:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.22
   viewBias:
     m_OverrideState: 0
     m_Value: 0.1
@@ -147,7 +147,6 @@ MonoBehaviour:
   - {fileID: 2381840859961949008}
   - {fileID: -3006408312965861215}
   - {fileID: -8196930613493678606}
-  - {fileID: 4017403998261171925}
   - {fileID: -9202395016299155628}
   - {fileID: 1365139549464581474}
 --- !u!114 &1365139549464581474
@@ -168,10 +167,10 @@ MonoBehaviour:
     m_Value: 7
   intensity:
     m_OverrideState: 1
-    m_Value: 0.358
+    m_Value: 0.22
   response:
     m_OverrideState: 1
-    m_Value: 0.784
+    m_Value: 0.202
   texture:
     m_OverrideState: 1
     m_Value: {fileID: 0}
@@ -196,26 +195,10 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.801
+    m_Value: 0.821
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.224
+    m_Value: 1
   rounded:
     m_OverrideState: 1
-    m_Value: 1
---- !u!114 &4017403998261171925
-MonoBehaviour:
-  m_ObjectHideFlags: 3
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 81180773991d8724ab7f2d216912b564, type: 3}
-  m_Name: ChromaticAberration
-  m_EditorClassIdentifier: 
-  active: 1
-  intensity:
-    m_OverrideState: 1
-    m_Value: 0.034
+    m_Value: 0

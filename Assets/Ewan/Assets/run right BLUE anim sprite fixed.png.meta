@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: dd1eb81c049cc654ca4cdff6bf22ba2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3904871152907276210
+    second: run right BLUE anim sprite fixed_0
+  - first:
+      213: -8972419767150519008
+    second: run right BLUE anim sprite fixed_1
+  - first:
+      213: -7519784913235975569
+    second: run right BLUE anim sprite fixed_2
+  - first:
+      213: 2966676707582076863
+    second: run right BLUE anim sprite fixed_3
+  - first:
+      213: -8732427578285008666
+    second: run right BLUE anim sprite fixed_4
+  - first:
+      213: 2575138083186344726
+    second: run right BLUE anim sprite fixed_5
+  - first:
+      213: -1426854619656749713
+    second: run right BLUE anim sprite fixed_6
+  - first:
+      213: -5476766935988216393
+    second: run right BLUE anim sprite fixed_7
+  - first:
+      213: -7256823439119741510
+    second: run right BLUE anim sprite fixed_8
+  - first:
+      213: -8394760854996379999
+    second: run right BLUE anim sprite fixed_9
+  - first:
+      213: 3613339432080989608
+    second: run right BLUE anim sprite fixed_10
+  - first:
+      213: -1250959726876274914
+    second: run right BLUE anim sprite fixed_11
+  - first:
+      213: 257952241844425250
+    second: run right BLUE anim sprite fixed_12
+  - first:
+      213: 288570307262484033
+    second: run right BLUE anim sprite fixed_13
+  - first:
+      213: 8686659995230272300
+    second: run right BLUE anim sprite fixed_14
+  - first:
+      213: -7857927662788951720
+    second: run right BLUE anim sprite fixed_15
+  - first:
+      213: -8434886186848931559
+    second: run right BLUE anim sprite fixed_16
+  - first:
+      213: 8702265114583905710
+    second: run right BLUE anim sprite fixed_17
+  - first:
+      213: 3535584871536153001
+    second: run right BLUE anim sprite fixed_18
+  - first:
+      213: -7431112333745087501
+    second: run right BLUE anim sprite fixed_19
+  - first:
+      213: 902327823248092313
+    second: run right BLUE anim sprite fixed_20
+  - first:
+      213: 1467821160579699481
+    second: run right BLUE anim sprite fixed_21
+  - first:
+      213: -5418157444278758280
+    second: run right BLUE anim sprite fixed_22
+  - first:
+      213: -2513676105745736599
+    second: run right BLUE anim sprite fixed_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 741
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40ba45106c1fc9c0800000000000000
+      internalID: -3904871152907276210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 839
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ddc4b72cf8b7380800000000000000
+      internalID: -8972419767150519008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 708
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f626a33867b54a790800000000000000
+      internalID: -7519784913235975569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 804
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ead65fb0cb2920800000000000000
+      internalID: 2966676707582076863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 689
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e85f79426f20d680800000000000000
+      internalID: -8732427578285008666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 787
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61307e7617abcb320800000000000000
+      internalID: 2575138083186344726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 600
+        width: 168
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dfb31884bc23ce0800000000000000
+      internalID: -1426854619656749713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 683
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd51d62d7d9ef3b0800000000000000
+      internalID: -5476766935988216393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 565
+        width: 168
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd0a89c7859a4b90800000000000000
+      internalID: -7256823439119741510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 548
+        width: 168
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6169fca71df7b80800000000000000
+      internalID: -8394760854996379999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 648
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad5916b119252230800000000000000
+      internalID: 3613339432080989608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 631
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f483b91c2b3aee0800000000000000
+      internalID: -1250959726876274914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 206
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2221720823e649300800000000000000
+      internalID: 257952241844425250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 229
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e0b116a25310400800000000000000
+      internalID: 288570307262484033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 325
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bfb44ed373d8870800000000000000
+      internalID: 8686659995230272300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 237
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851cfbc7c6803f290800000000000000
+      internalID: -7857927662788951720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_16
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 335
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9113508f3b341fa80800000000000000
+      internalID: -8434886186848931559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 303
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53c00e308a4c870800000000000000
+      internalID: 8702265114583905710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 64
+        width: 168
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1582555bbe01130800000000000000
+      internalID: 3535584871536153001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 85
+        width: 168
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb991544b26fd890800000000000000
+      internalID: -7431112333745087501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 169
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c67afdf56b58c00800000000000000
+      internalID: 902327823248092313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 96
+        width: 168
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9139726919fbe5410800000000000000
+      internalID: 1467821160579699481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 179
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87450a4d286dec4b0800000000000000
+      internalID: -5418157444278758280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run right BLUE anim sprite fixed_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 147
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c53ac56e0ad1dd0800000000000000
+      internalID: -2513676105745736599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      run right BLUE anim sprite fixed_0: -3904871152907276210
+      run right BLUE anim sprite fixed_1: -8972419767150519008
+      run right BLUE anim sprite fixed_10: 3613339432080989608
+      run right BLUE anim sprite fixed_11: -1250959726876274914
+      run right BLUE anim sprite fixed_12: 257952241844425250
+      run right BLUE anim sprite fixed_13: 288570307262484033
+      run right BLUE anim sprite fixed_14: 8686659995230272300
+      run right BLUE anim sprite fixed_15: -7857927662788951720
+      run right BLUE anim sprite fixed_16: -8434886186848931559
+      run right BLUE anim sprite fixed_17: 8702265114583905710
+      run right BLUE anim sprite fixed_18: 3535584871536153001
+      run right BLUE anim sprite fixed_19: -7431112333745087501
+      run right BLUE anim sprite fixed_2: -7519784913235975569
+      run right BLUE anim sprite fixed_20: 902327823248092313
+      run right BLUE anim sprite fixed_21: 1467821160579699481
+      run right BLUE anim sprite fixed_22: -5418157444278758280
+      run right BLUE anim sprite fixed_23: -2513676105745736599
+      run right BLUE anim sprite fixed_3: 2966676707582076863
+      run right BLUE anim sprite fixed_4: -8732427578285008666
+      run right BLUE anim sprite fixed_5: 2575138083186344726
+      run right BLUE anim sprite fixed_6: -1426854619656749713
+      run right BLUE anim sprite fixed_7: -5476766935988216393
+      run right BLUE anim sprite fixed_8: -7256823439119741510
+      run right BLUE anim sprite fixed_9: -8394760854996379999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

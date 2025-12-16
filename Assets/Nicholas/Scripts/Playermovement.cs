@@ -166,7 +166,12 @@ public class Playermovement : MonoBehaviour
         canDash = false;
         isDashing = true;
         rb.gravityScale = 0f;
-        rb.linearVelocity = new Vector2(directionx * dashingPower, 0f);
+        float yChange = rb.linearVelocity.y;
+        if(yChange > jumpingPower)
+            yChange = jumpingPower;
+        if(yChange < 0)
+            yChange = 0;
+        rb.linearVelocity = new Vector2(directionx * dashingPower, yChange);
         yield return new WaitForSeconds(dashingTime);
         rb.gravityScale = 0.8f;
         isDashing = false;
