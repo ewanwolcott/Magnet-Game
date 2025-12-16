@@ -47,6 +47,11 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("Level9");
     }
 
+    public void Level10()
+    {
+        SceneManager.LoadScene("Level10");
+    }
+
     public void PlayCredits()
     {
         SceneManager.LoadScene("Credits");
