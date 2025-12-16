@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      run right BLUE anim sprite fixed_0: -3904871152907276210
+      run right BLUE anim sprite fixed_1: -8972419767150519008
+      run right BLUE anim sprite fixed_10: 3613339432080989608
+      run right BLUE anim sprite fixed_11: -1250959726876274914
+      run right BLUE anim sprite fixed_12: 257952241844425250
+      run right BLUE anim sprite fixed_13: 288570307262484033
+      run right BLUE anim sprite fixed_14: 8686659995230272300
+      run right BLUE anim sprite fixed_15: -7857927662788951720
+      run right BLUE anim sprite fixed_16: -8434886186848931559
+      run right BLUE anim sprite fixed_17: 8702265114583905710
+      run right BLUE anim sprite fixed_18: 3535584871536153001
+      run right BLUE anim sprite fixed_19: -7431112333745087501
+      run right BLUE anim sprite fixed_2: -7519784913235975569
+      run right BLUE anim sprite fixed_20: 902327823248092313
+      run right BLUE anim sprite fixed_21: 1467821160579699481
+      run right BLUE anim sprite fixed_22: -5418157444278758280
+      run right BLUE anim sprite fixed_23: -2513676105745736599
+      run right BLUE anim sprite fixed_3: 2966676707582076863
+      run right BLUE anim sprite fixed_4: -8732427578285008666
+      run right BLUE anim sprite fixed_5: 2575138083186344726
+      run right BLUE anim sprite fixed_6: -1426854619656749713
+      run right BLUE anim sprite fixed_7: -5476766935988216393
+      run right BLUE anim sprite fixed_8: -7256823439119741510
+      run right BLUE anim sprite fixed_9: -8394760854996379999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
