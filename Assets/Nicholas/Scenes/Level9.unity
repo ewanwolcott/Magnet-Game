@@ -2136,6 +2136,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Game Manager
       objectReference: {fileID: 0}
+    - target: {fileID: 9132296049728792809, guid: cc17f91e184f85143b8fb96c0b1d23e7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -95012,8 +95016,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 633350738}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMin: {x: 0.75, y: 0}
+  m_AnchorMax: {x: 0.75, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -98513,6 +98517,7 @@ MonoBehaviour:
   Player: {fileID: 2116362355}
   PlayerField: {fileID: 670316943}
   au: {fileID: 1444525249}
+  vm: {fileID: 154214442}
   isDark: 0
 --- !u!61 &1444525247
 BoxCollider2D:
@@ -98835,7 +98840,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1489199585
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -99709,7 +99714,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1687673857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100362,7 +100367,7 @@ RectTransform:
   m_Father: {fileID: 190979873}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0.75, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -101580,6 +101585,6 @@ SceneRoots:
   - {fileID: 1898059036}
   - {fileID: 1489199588}
   - {fileID: 1687673861}
-  - {fileID: 650576356}
   - {fileID: 617452848}
+  - {fileID: 650576356}
   - {fileID: 154214443}
