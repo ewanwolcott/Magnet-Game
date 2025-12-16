@@ -1,79 +1,115 @@
 fileFormatVersion: 2
-guid: dd1eb81c049cc654ca4cdff6bf22ba2d
+guid: 9e16e3881bbd4c54aabe6c75aa81040c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3904871152907276210
-    second: run right BLUE anim sprite fixed_0
+      213: -3412941536242100572
+    second: red run ani left_0
   - first:
-      213: -8972419767150519008
-    second: run right BLUE anim sprite fixed_1
+      213: -6868596860803794572
+    second: red run ani left_1
   - first:
-      213: -7519784913235975569
-    second: run right BLUE anim sprite fixed_2
+      213: 6223071917165989571
+    second: red run ani left_2
   - first:
-      213: 2966676707582076863
-    second: run right BLUE anim sprite fixed_3
+      213: -1244128403137961225
+    second: red run ani left_3
   - first:
-      213: -8732427578285008666
-    second: run right BLUE anim sprite fixed_4
+      213: -5907746082818396393
+    second: red run ani left_4
   - first:
-      213: 2575138083186344726
-    second: run right BLUE anim sprite fixed_5
+      213: -8398110766015060764
+    second: red run ani left_5
   - first:
-      213: -1426854619656749713
-    second: run right BLUE anim sprite fixed_6
+      213: -774085894564559483
+    second: red run ani left_6
   - first:
-      213: -5476766935988216393
-    second: run right BLUE anim sprite fixed_7
+      213: 4004871271031529628
+    second: red run ani left_7
   - first:
-      213: -7256823439119741510
-    second: run right BLUE anim sprite fixed_8
+      213: -8537714547589656382
+    second: red run ani left_8
   - first:
-      213: -8394760854996379999
-    second: run right BLUE anim sprite fixed_9
+      213: 4887787696889359110
+    second: red run ani left_9
   - first:
-      213: 3613339432080989608
-    second: run right BLUE anim sprite fixed_10
+      213: 8493495308589588627
+    second: red run ani left_10
   - first:
-      213: -1250959726876274914
-    second: run right BLUE anim sprite fixed_11
+      213: -5533177425776396764
+    second: red run ani left_11
   - first:
-      213: 257952241844425250
-    second: run right BLUE anim sprite fixed_12
+      213: -3601817885206000412
+    second: red run ani left_12
   - first:
-      213: 288570307262484033
-    second: run right BLUE anim sprite fixed_13
+      213: -8311559776867324047
+    second: red run ani left_13
   - first:
-      213: 8686659995230272300
-    second: run right BLUE anim sprite fixed_14
+      213: 3444629828748947463
+    second: red run ani left_14
   - first:
-      213: -7857927662788951720
-    second: run right BLUE anim sprite fixed_15
+      213: -3344402739640987234
+    second: red run ani left_15
   - first:
-      213: -8434886186848931559
-    second: run right BLUE anim sprite fixed_16
+      213: -9153148381467240080
+    second: red run ani left_16
   - first:
-      213: 8702265114583905710
-    second: run right BLUE anim sprite fixed_17
+      213: -8122325343552203424
+    second: red run ani left_17
   - first:
-      213: 3535584871536153001
-    second: run right BLUE anim sprite fixed_18
+      213: -1575718472352162979
+    second: red run ani left_18
   - first:
-      213: -7431112333745087501
-    second: run right BLUE anim sprite fixed_19
+      213: 5708155404756937492
+    second: red run ani left_19
   - first:
-      213: 902327823248092313
-    second: run right BLUE anim sprite fixed_20
+      213: 6815982912095602168
+    second: red run ani left_20
   - first:
-      213: 1467821160579699481
-    second: run right BLUE anim sprite fixed_21
+      213: -5938311456204592503
+    second: red run ani left_21
   - first:
-      213: -5418157444278758280
-    second: run right BLUE anim sprite fixed_22
+      213: -7329921919139790853
+    second: red run ani left_22
   - first:
-      213: -2513676105745736599
-    second: run right BLUE anim sprite fixed_23
+      213: 8580497033676730638
+    second: red run ani left_23
+  - first:
+      213: 8365334593214020029
+    second: red run ani left_24
+  - first:
+      213: 6489217047282736841
+    second: red run ani left_25
+  - first:
+      213: 6926275286981925219
+    second: red run ani left_26
+  - first:
+      213: 2934455886953505970
+    second: red run ani left_27
+  - first:
+      213: -4179542876416919591
+    second: red run ani left_28
+  - first:
+      213: 6095425385654497605
+    second: red run ani left_29
+  - first:
+      213: -6932056018788745647
+    second: red run ani left_30
+  - first:
+      213: -2302147221110855061
+    second: red run ani left_31
+  - first:
+      213: -592509816750694220
+    second: red run ani left_32
+  - first:
+      213: -7373536475532647563
+    second: red run ani left_33
+  - first:
+      213: -2718677868244373210
+    second: red run ani left_34
+  - first:
+      213: 5645885807107964549
+    second: red run ani left_35
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -195,11 +231,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: run right BLUE anim sprite fixed_0
+      name: red run ani left_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 489
+        x: 2
+        y: 500
         width: 250
         height: 400
       alignment: 0
@@ -208,20 +244,20 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e40ba45106c1fc9c0800000000000000
-      internalID: -3904871152907276210
+      spriteID: 73301575f87cd1648a3084d8e50bd9cb
+      internalID: -508467214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run right BLUE anim sprite fixed_1
+      name: red run ani left_1
       rect:
         serializedVersion: 2
-        x: 250
-        y: 463
+        x: 248
+        y: 456
         width: 250
         height: 400
       alignment: 0
@@ -230,20 +266,20 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 02ddc4b72cf8b7380800000000000000
-      internalID: -8972419767150519008
+      spriteID: 06ea85653a291744fa1682b07622154d
+      internalID: 233658319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run right BLUE anim sprite fixed_2
+      name: red run ani left_2
       rect:
         serializedVersion: 2
         x: 500
-        y: 463
+        y: 456
         width: 250
         height: 400
       alignment: 0
@@ -252,38 +288,38 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f626a33867b54a790800000000000000
-      internalID: -7519784913235975569
+      spriteID: f2092bc889c41574eb54ecda1d829ea2
+      internalID: -876694436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run right BLUE anim sprite fixed_3
+      name: red run ani left_3
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 250
-        height: 398
+        height: 365
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fb7ead65fb0cb2920800000000000000
-      internalID: 2966676707582076863
+      spriteID: 1bb95fdb04835114bb68b7a6faef1f4a
+      internalID: 990526229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run right BLUE anim sprite fixed_4
+      name: red run ani left_4
       rect:
         serializedVersion: 2
         x: 250
@@ -296,16 +332,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e85f79426f20d680800000000000000
-      internalID: -8732427578285008666
+      spriteID: 903635862bdec7d4681d80b8ad48d132
+      internalID: -280999517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: run right BLUE anim sprite fixed_5
+      name: red run ani left_5
       rect:
         serializedVersion: 2
         x: 500
@@ -318,10 +354,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 61307e7617abcb320800000000000000
-      internalID: 2575138083186344726
+      spriteID: 25093180fd071c84da3501c9a51442d1
+      internalID: -556226826
       vertices: []
       indices: 
       edges: []
@@ -330,7 +366,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e87afa26253130744a50d27f84b830f5
+    spriteID: ce27db0f9de59ad479d4a4b857ae36a4
     internalID: 0
     vertices: []
     indices: 
@@ -340,12 +376,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      run right BLUE anim sprite fixed_0: -3904871152907276210
-      run right BLUE anim sprite fixed_1: -8972419767150519008
-      run right BLUE anim sprite fixed_2: -7519784913235975569
-      run right BLUE anim sprite fixed_3: 2966676707582076863
-      run right BLUE anim sprite fixed_4: -8732427578285008666
-      run right BLUE anim sprite fixed_5: 2575138083186344726
+      red run ani left_0: -508467214
+      red run ani left_1: 233658319
+      red run ani left_2: -876694436
+      red run ani left_3: 990526229
+      red run ani left_4: -280999517
+      red run ani left_5: -556226826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

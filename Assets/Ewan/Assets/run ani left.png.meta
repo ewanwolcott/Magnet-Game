@@ -236,8 +236,8 @@ TextureImporter:
         serializedVersion: 2
         x: 2
         y: 505
-        width: 254
-        height: 409
+        width: 250
+        height: 400
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: run ani left_1
       rect:
         serializedVersion: 2
-        x: 258
-        y: 456
-        width: 244
-        height: 399
+        x: 252
+        y: 458
+        width: 250
+        height: 400
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,9 +279,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 500
-        y: 454
+        y: 457
         width: 250
-        height: 402
+        height: 400
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,7 +325,7 @@ TextureImporter:
         x: 250
         y: 0
         width: 250
-        height: 399
+        height: 400
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,7 +347,7 @@ TextureImporter:
         x: 500
         y: 0
         width: 250
-        height: 399
+        height: 400
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

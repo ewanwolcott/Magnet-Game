@@ -41,8 +41,7 @@ public class DarkController : MonoBehaviour
             Magnet.color = new Color32(0,0,0,255);
             tmMagnet.color = new Color32(0,0,0,255);
             Background1.color = new Color32(0,0,0,255);
-            Background2.color = new Color32(0,0,0,255);
-            Player.sr.color = new Color32(0,0,0,255);
+            Background2.color = new Color32(0, 0, 0, 255);
             if (!soundPlayed)
             {
                 au.Play();
