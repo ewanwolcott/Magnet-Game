@@ -2,11 +2,13 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 public class EscapeMenu : MonoBehaviour
 {
     public GameObject escapemenu;
     public GameObject escapemenubackground;
     public GameObject settingsmenu;
+    public GameObject resume;
 
     public void MainMenu()
     {
@@ -31,8 +33,15 @@ public class EscapeMenu : MonoBehaviour
     
     // has escape menu open
     private bool IsEscaped = false;
+    // is selected in escape menu not using mouse
+    private bool IsSelected = false;
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.DownArrow) && IsEscaped == true)
+        {
+            EventSystem.current.SetSelectedGameObject(resume);
+        }
+
         if (Input.GetKeyDown(KeyCode.Escape) && IsEscaped == false)
         {
             escapemenu.SetActive(true);
