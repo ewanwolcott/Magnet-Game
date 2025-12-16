@@ -11,8 +11,10 @@ public class DarkController : MonoBehaviour
     [SerializeField] SpriteRenderer Background2;
     [SerializeField] Playermovement Player;
     [SerializeField] SpriteRenderer PlayerField;
+    [SerializeField] AudioSource au;
 
     public bool isDark;
+    private bool soundPlayed;
     private void Update()
     {
         if(Player.polarity == -1) // blue
@@ -41,6 +43,11 @@ public class DarkController : MonoBehaviour
             Background1.color = new Color32(0,0,0,255);
             Background2.color = new Color32(0,0,0,255);
             Player.sr.color = new Color32(0,0,0,255);
+            if (!soundPlayed)
+            {
+                au.Play();
+                soundPlayed = true;
+            }
         }
     }
 
