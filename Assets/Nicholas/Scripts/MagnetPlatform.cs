@@ -114,6 +114,10 @@ public class MagnetPlatform : MonoBehaviour
             {
                 pm.rb.gravityScale = 0;
             }
+            if(pm.rb.gravityScale == 0 && polarity != 0)
+            {
+                pm.rb.gravityScale = 0.8f;
+            }
         }
     }
 }
