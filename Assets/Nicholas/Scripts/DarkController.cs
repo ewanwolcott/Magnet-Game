@@ -33,6 +33,7 @@ public class DarkController : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             isDark = true;
+            PlayerField.enabled = true;
             tmGround.color = new Color32(0,0,0,255);
             tmWall.color = new Color32(0,0,0,255);
             Magnet.color = new Color32(0,0,0,255);
