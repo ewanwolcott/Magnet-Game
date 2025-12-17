@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 36db9089f0326c9478b655fc3ad7a75b
+guid: 4d9975ea1f6009e4ab228e5ce3167555
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5615277913421783526
-    second: '{4B3E2627-92BE-42CC-B827-8D819F963986}_0'
+      213: -8806645266330959967
+    second: thumbnail_billboard glasses_0
+  - first:
+      213: -751689779103817012
+    second: thumbnail_billboard glasses_1
+  - first:
+      213: -64705121691479973
+    second: thumbnail_billboard glasses_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: '{4B3E2627-92BE-42CC-B827-8D819F963986}_0'
+      name: thumbnail_billboard glasses_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 409
-        height: 526
+        x: 357
+        y: 74
+        width: 988
+        height: 1818
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +147,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e12a90e2897ded40800000000000000
-      internalID: 5615277913421783526
+      spriteID: 1afb7753ac288c580800000000000000
+      internalID: -8806645266330959967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_billboard glasses_1
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a937e0267195f0800000000000000
+      internalID: -751689779103817012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_billboard glasses_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b505e6ed80f1a1ff0800000000000000
+      internalID: -64705121691479973
       vertices: []
       indices: 
       edges: []
@@ -161,7 +211,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      '{4B3E2627-92BE-42CC-B827-8D819F963986}_0': 5615277913421783526
+      thumbnail_billboard glasses_0: -8806645266330959967
+      thumbnail_billboard glasses_1: -751689779103817012
+      thumbnail_billboard glasses_2: -64705121691479973
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

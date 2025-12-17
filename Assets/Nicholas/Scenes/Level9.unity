@@ -2136,6 +2136,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Game Manager
       objectReference: {fileID: 0}
+    - target: {fileID: 9132296049728792809, guid: cc17f91e184f85143b8fb96c0b1d23e7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -98513,6 +98517,7 @@ MonoBehaviour:
   Player: {fileID: 2116362355}
   PlayerField: {fileID: 670316943}
   au: {fileID: 1444525249}
+  vm: {fileID: 154214442}
   isDark: 0
 --- !u!61 &1444525247
 BoxCollider2D:
@@ -101580,6 +101585,6 @@ SceneRoots:
   - {fileID: 1898059036}
   - {fileID: 1489199588}
   - {fileID: 1687673861}
-  - {fileID: 650576356}
   - {fileID: 617452848}
+  - {fileID: 650576356}
   - {fileID: 154214443}

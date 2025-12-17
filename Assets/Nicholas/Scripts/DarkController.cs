@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.Universal;
 using UnityEngine.Tilemaps;
 
 public class DarkController : MonoBehaviour
@@ -12,6 +14,7 @@ public class DarkController : MonoBehaviour
     [SerializeField] Playermovement Player;
     [SerializeField] SpriteRenderer PlayerField;
     [SerializeField] AudioSource au;
+    [SerializeField] Volume vm;
 
     public bool isDark;
     private bool soundPlayed;
@@ -41,7 +44,20 @@ public class DarkController : MonoBehaviour
             Magnet.color = new Color32(0,0,0,255);
             tmMagnet.color = new Color32(0,0,0,255);
             Background1.color = new Color32(0,0,0,255);
-            Background2.color = new Color32(0, 0, 0, 255);
+            Background2.color = new Color32(0,0,0,255);
+            Player.sr.color = new Color32(0,0,0,255);
+            // global volume changes
+
+            if (vm.profile.TryGet(out ColorAdjustments colorA))
+            {
+                colorA.active = false;
+            }
+            if (vm.profile.TryGet(out LiftGammaGain lgg))
+            {
+                lgg.active = false;
+            }
+
+
             if (!soundPlayed)
             {
                 au.Play();

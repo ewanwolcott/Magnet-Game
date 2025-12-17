@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 36db9089f0326c9478b655fc3ad7a75b
+guid: 11486c2644a02d94a84693f5002e682a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5615277913421783526
-    second: '{4B3E2627-92BE-42CC-B827-8D819F963986}_0'
+      213: 255075894966739901
+    second: kerek1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: '{4B3E2627-92BE-42CC-B827-8D819F963986}_0'
+      name: kerek1_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 765
         y: 0
-        width: 409
-        height: 526
+        width: 2474
+        height: 2054
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e12a90e2897ded40800000000000000
-      internalID: 5615277913421783526
+      spriteID: db3e14ecc263a8300800000000000000
+      internalID: 255075894966739901
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      '{4B3E2627-92BE-42CC-B827-8D819F963986}_0': 5615277913421783526
+      kerek1_0: 255075894966739901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
