@@ -135793,7 +135793,7 @@ GameObject:
   - component: {fileID: 647400384}
   - component: {fileID: 647400383}
   - component: {fileID: 647400387}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BlueUpgrade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
