@@ -135508,6 +135508,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 717507091698450441, guid: c49b17c34212c6d429da1137d43fa9cf, type: 3}
   m_PrefabInstance: {fileID: 575841224}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &575841226 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5459093054579509597, guid: c49b17c34212c6d429da1137d43fa9cf, type: 3}
+  m_PrefabInstance: {fileID: 575841224}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1fb2521e3085ca42a667adce5db6456, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &577951799
 GameObject:
   m_ObjectHideFlags: 0
@@ -135781,6 +135792,7 @@ GameObject:
   - component: {fileID: 647400385}
   - component: {fileID: 647400384}
   - component: {fileID: 647400383}
+  - component: {fileID: 647400387}
   m_Layer: 0
   m_Name: BlueUpgrade
   m_TagString: Untagged
@@ -135801,8 +135813,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: blue
-  sr: {fileID: 0}
-  pm: {fileID: 0}
+  sr: {fileID: 647400385}
+  pm: {fileID: 575841226}
 --- !u!70 &647400384
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -135884,10 +135896,10 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 0, g: 0.3920169, b: 1, a: 1}
+  m_Sprite: {fileID: -6171899430244941295, guid: 2325c434c3a93a7419d59f76e84ddc86, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
-  m_FlipY: 0
+  m_FlipY: 1
   m_DrawMode: 0
   m_Size: {x: 1, y: 2}
   m_AdaptiveModeThreshold: 0.5
@@ -135904,12 +135916,39 @@ Transform:
   m_GameObject: {fileID: 647400382}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 32, y: -17.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 32.147, y: -17.647, z: 0}
+  m_LocalScale: {x: 3.2, y: 3.2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!114 &647400387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 647400382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fec008892dc5b489d871f74a39e8e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onInteract:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 647400383}
+        m_TargetAssemblyTypeName: Upgrade, Assembly-CSharp
+        m_MethodName: Activate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &668406330
 GameObject:
   m_ObjectHideFlags: 0
@@ -137071,7 +137110,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4974947460525266958, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -33.80623
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6116488465309366476, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_AnchorMax.x
@@ -137087,7 +137126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6116488465309366476, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 67.61244
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6418947593286063042, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_Pivot.x
