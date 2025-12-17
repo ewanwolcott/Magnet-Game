@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 70fbd1f96db433944804ab30491f82dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3592342283801900337
+    second: 1credit scene_0
+  - first:
+      213: -2896718713893642872
+    second: 1credit scene_1
+  - first:
+      213: 512696746620180580
+    second: 1credit scene_2
+  - first:
+      213: 7546342178224255542
+    second: 1credit scene_3
+  - first:
+      213: -1252728867274931015
+    second: 1credit scene_4
+  - first:
+      213: 4949572113891379900
+    second: 1credit scene_5
+  - first:
+      213: 78592867561216398
+    second: 1credit scene_6
+  - first:
+      213: 8935137123603647072
+    second: 1credit scene_7
+  - first:
+      213: -1502071712391112813
+    second: 1credit scene_8
+  - first:
+      213: -3257976600564531541
+    second: 1credit scene_9
+  - first:
+      213: -1758290192199770569
+    second: 1credit scene_10
+  - first:
+      213: -227674729680758994
+    second: 1credit scene_11
+  - first:
+      213: -7345307195426580938
+    second: 1credit scene_12
+  - first:
+      213: 1344090751329211616
+    second: 1credit scene_13
+  - first:
+      213: -4341276674946690355
+    second: 1credit scene_14
+  - first:
+      213: 1101375488550493833
+    second: 1credit scene_15
+  - first:
+      213: -2586161209257911230
+    second: 1credit scene_16
+  - first:
+      213: 6191301083032659468
+    second: 1credit scene_17
+  - first:
+      213: -2494404150898613701
+    second: 1credit scene_18
+  - first:
+      213: 8201487087613155368
+    second: 1credit scene_19
+  - first:
+      213: -4685353118046050278
+    second: 1credit scene_20
+  - first:
+      213: -459520415246965493
+    second: 1credit scene_21
+  - first:
+      213: 9178392760321669577
+    second: 1credit scene_22
+  - first:
+      213: 784117207201745059
+    second: 1credit scene_23
+  - first:
+      213: 8133568946281276997
+    second: 1credit scene_24
+  - first:
+      213: 6743474768655266103
+    second: 1credit scene_25
+  - first:
+      213: -4476107455151237731
+    second: 1credit scene_26
+  - first:
+      213: 8813442344674729378
+    second: 1credit scene_27
+  - first:
+      213: 5845525380680866880
+    second: 1credit scene_28
+  - first:
+      213: 8057685563904609006
+    second: 1credit scene_29
+  - first:
+      213: -4386491408832882885
+    second: 1credit scene_30
+  - first:
+      213: -2367219631225383330
+    second: 1credit scene_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1credit scene_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca4f56d9bf652ec0800000000000000
+      internalID: -3592342283801900337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 539be757921f8de48b45ec6130e187dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1credit scene_0: -3592342283801900337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
