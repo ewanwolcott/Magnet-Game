@@ -1,19 +1,19 @@
+using System;
 using UnityEngine;
+using static UnityEngine.UI.Image;
 
 public class Upgrade : MonoBehaviour
 {
 
     public string type;
-    private void OnTriggerEnter2D(Collider2D collision)
+    [SerializeField] SpriteRenderer sr;
+    [SerializeField] Playermovement pm;
+    public void Activate()
     {
-        if (collision.CompareTag("Player"))
-        {
-            Playermovement pm = collision.GetComponent<Playermovement>();
-            if(type == "red")
-                pm.hasRed = true;
-            if (type == "blue")
-                pm.hasBlue = true;
-            Destroy(gameObject);
-        }
+        if (type == "red")
+            pm.hasRed = true;
+        if (type == "blue")
+            pm.hasBlue = true;
+        sr.color = new Color32(100, 100, 100, 255);
     }
 }
