@@ -4151,6 +4151,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Game Manager
       objectReference: {fileID: 0}
+    - target: {fileID: 9132296049728792809, guid: cc17f91e184f85143b8fb96c0b1d23e7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4752,6 +4756,7 @@ MonoBehaviour:
   escapemenu: {fileID: 1537954423}
   escapemenubackground: {fileID: 1651602668}
   settingsmenu: {fileID: 507618830}
+  resume: {fileID: 0}
 --- !u!114 &954165768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -91130,6 +91135,7 @@ SceneRoots:
   - {fileID: 1190774292}
   - {fileID: 954165771}
   - {fileID: 1896003329}
+  - {fileID: 624312239}
   - {fileID: 1816862409}
   - {fileID: 2073942214}
   - {fileID: 469097878}
@@ -91138,5 +91144,4 @@ SceneRoots:
   - {fileID: 411905992}
   - {fileID: 1002786098}
   - {fileID: 1739322497}
-  - {fileID: 624312239}
   - {fileID: 743345434}
