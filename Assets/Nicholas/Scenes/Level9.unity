@@ -420,7 +420,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &154214442
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -731,35 +731,35 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2517892452048009451, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4974947460525266958, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0.75
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4974947460525266958, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4974947460525266958, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -33.80623
       objectReference: {fileID: 0}
     - target: {fileID: 6116488465309366476, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0.75
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6116488465309366476, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6116488465309366476, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0.75
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6116488465309366476, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 67.61244
       objectReference: {fileID: 0}
     - target: {fileID: 6418947593286063042, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_Pivot.x
@@ -987,7 +987,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9132296049728792809, guid: cc17f91e184f85143b8fb96c0b1d23e7, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1011,7 +1011,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &650576354
 MonoBehaviour:
   m_ObjectHideFlags: 0
