@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 8a5cfacff5d6e654c96b4482a934a311
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -242276579130695927
+    second: Credit Scene Sydney_0
+  - first:
+      213: 7799658706558997700
+    second: Credit Scene Sydney_1
+  - first:
+      213: -4643520872301655945
+    second: Credit Scene Sydney_2
+  - first:
+      213: -6380741783077137084
+    second: Credit Scene Sydney_3
+  - first:
+      213: -2160513254114073088
+    second: Credit Scene Sydney_4
+  - first:
+      213: 5560767912105514468
+    second: Credit Scene Sydney_5
+  - first:
+      213: -872143063535802394
+    second: Credit Scene Sydney_6
+  - first:
+      213: -7551908662294465984
+    second: Credit Scene Sydney_7
+  - first:
+      213: -5238405296124596048
+    second: Credit Scene Sydney_8
+  - first:
+      213: -4896150025901460085
+    second: Credit Scene Sydney_9
+  - first:
+      213: 6640892972872709078
+    second: Credit Scene Sydney_10
+  - first:
+      213: -7819284417559496394
+    second: Credit Scene Sydney_11
+  - first:
+      213: -890205108059419512
+    second: Credit Scene Sydney_12
+  - first:
+      213: -1650531873997804563
+    second: Credit Scene Sydney_13
+  - first:
+      213: -5130645032120465618
+    second: Credit Scene Sydney_14
+  - first:
+      213: 256701601207535021
+    second: Credit Scene Sydney_15
+  - first:
+      213: 8681324284290408671
+    second: Credit Scene Sydney_16
+  - first:
+      213: -721978487850532545
+    second: Credit Scene Sydney_17
+  - first:
+      213: 3460540625637826214
+    second: Credit Scene Sydney_18
+  - first:
+      213: -3011140014829597195
+    second: Credit Scene Sydney_19
+  - first:
+      213: 6629488121574130215
+    second: Credit Scene Sydney_20
+  - first:
+      213: -5038700779519697043
+    second: Credit Scene Sydney_21
+  - first:
+      213: 2411800726319725879
+    second: Credit Scene Sydney_22
+  - first:
+      213: -4130419591256351571
+    second: Credit Scene Sydney_23
+  - first:
+      213: 2973991430922935485
+    second: Credit Scene Sydney_24
+  - first:
+      213: 1943193772929933959
+    second: Credit Scene Sydney_25
+  - first:
+      213: 8028738683022596247
+    second: Credit Scene Sydney_26
+  - first:
+      213: -6631572630645663197
+    second: Credit Scene Sydney_27
+  - first:
+      213: -7412536106699117315
+    second: Credit Scene Sydney_28
+  - first:
+      213: -3236735162457461626
+    second: Credit Scene Sydney_29
+  - first:
+      213: 896666052203667715
+    second: Credit Scene Sydney_30
+  - first:
+      213: -6749853956454568476
+    second: Credit Scene Sydney_31
+  - first:
+      213: -7897967673445442307
+    second: Credit Scene Sydney_32
+  - first:
+      213: 6187406873133021549
+    second: Credit Scene Sydney_33
+  - first:
+      213: -2990187054702931573
+    second: Credit Scene Sydney_34
+  - first:
+      213: 6421524381715863339
+    second: Credit Scene Sydney_35
+  - first:
+      213: 2766613353757997468
+    second: Credit Scene Sydney_36
+  - first:
+      213: 2692033379200841780
+    second: Credit Scene Sydney_37
+  - first:
+      213: -2517723699067425580
+    second: Credit Scene Sydney_38
+  - first:
+      213: 6576330077675620568
+    second: Credit Scene Sydney_39
+  - first:
+      213: -902815614760919785
+    second: Credit Scene Sydney_40
+  - first:
+      213: -698166854610094913
+    second: Credit Scene Sydney_41
+  - first:
+      213: -1829599070221580307
+    second: Credit Scene Sydney_42
+  - first:
+      213: -55667236016530569
+    second: Credit Scene Sydney_43
+  - first:
+      213: -7221760754490446031
+    second: Credit Scene Sydney_44
+  - first:
+      213: -4699747871199409958
+    second: Credit Scene Sydney_45
+  - first:
+      213: -2539591317208015558
+    second: Credit Scene Sydney_46
+  - first:
+      213: 6080141735374737089
+    second: Credit Scene Sydney_47
+  - first:
+      213: -8995571937202203781
+    second: Credit Scene Sydney_48
+  - first:
+      213: 9173006971116965015
+    second: Credit Scene Sydney_49
+  - first:
+      213: -8902999076010658308
+    second: Credit Scene Sydney_50
+  - first:
+      213: 922114119002606927
+    second: Credit Scene Sydney_51
+  - first:
+      213: -3620080464311342393
+    second: Credit Scene Sydney_52
+  - first:
+      213: -2441749500663705054
+    second: Credit Scene Sydney_53
+  - first:
+      213: 1615444170387038456
+    second: Credit Scene Sydney_54
+  - first:
+      213: -7994998683929792174
+    second: Credit Scene Sydney_55
+  - first:
+      213: 39183143463601636
+    second: Credit Scene Sydney_56
+  - first:
+      213: 5363226839495698062
+    second: Credit Scene Sydney_57
+  - first:
+      213: -4116369031376270140
+    second: Credit Scene Sydney_58
+  - first:
+      213: 3700596739419748105
+    second: Credit Scene Sydney_59
+  - first:
+      213: -4299384113195584195
+    second: Credit Scene Sydney_60
+  - first:
+      213: -7139616351031120492
+    second: Credit Scene Sydney_61
+  - first:
+      213: -5960462598116468980
+    second: Credit Scene Sydney_62
+  - first:
+      213: 8713840880626215821
+    second: Credit Scene Sydney_63
+  - first:
+      213: 5912478920011404674
+    second: Credit Scene Sydney_64
+  - first:
+      213: 7358133858718806628
+    second: Credit Scene Sydney_65
+  - first:
+      213: 2398446246718906691
+    second: Credit Scene Sydney_66
+  - first:
+      213: -8728323632572865314
+    second: Credit Scene Sydney_67
+  - first:
+      213: 2503278847287114421
+    second: Credit Scene Sydney_68
+  - first:
+      213: -8713913931085307596
+    second: Credit Scene Sydney_69
+  - first:
+      213: -1220105680033551126
+    second: Credit Scene Sydney_70
+  - first:
+      213: -1225482941221791497
+    second: Credit Scene Sydney_71
+  - first:
+      213: -6988018194362168131
+    second: Credit Scene Sydney_72
+  - first:
+      213: 2906467768367305470
+    second: Credit Scene Sydney_73
+  - first:
+      213: 6571011320260672260
+    second: Credit Scene Sydney_74
+  - first:
+      213: 4718808079456876313
+    second: Credit Scene Sydney_75
+  - first:
+      213: -2013619582322973749
+    second: Credit Scene Sydney_76
+  - first:
+      213: 3109066956135532306
+    second: Credit Scene Sydney_77
+  - first:
+      213: 2973570969931534205
+    second: Credit Scene Sydney_78
+  - first:
+      213: -2868137131668519886
+    second: Credit Scene Sydney_79
+  - first:
+      213: 3384070391809338401
+    second: Credit Scene Sydney_80
+  - first:
+      213: 2818929581031152947
+    second: Credit Scene Sydney_81
+  - first:
+      213: 806933013331044777
+    second: Credit Scene Sydney_82
+  - first:
+      213: 3933834870814137347
+    second: Credit Scene Sydney_83
+  - first:
+      213: 5225970805166363430
+    second: Credit Scene Sydney_84
+  - first:
+      213: -7735274836205754401
+    second: Credit Scene Sydney_85
+  - first:
+      213: 307305540135051515
+    second: Credit Scene Sydney_86
+  - first:
+      213: 8781416316926502686
+    second: Credit Scene Sydney_87
+  - first:
+      213: 3054975263963196171
+    second: Credit Scene Sydney_88
+  - first:
+      213: 8897903109798055041
+    second: Credit Scene Sydney_89
+  - first:
+      213: 7771837595289416455
+    second: Credit Scene Sydney_90
+  - first:
+      213: -4783821006000438086
+    second: Credit Scene Sydney_91
+  - first:
+      213: 6511881040119516681
+    second: Credit Scene Sydney_92
+  - first:
+      213: 5736712131218709318
+    second: Credit Scene Sydney_93
+  - first:
+      213: 1557222650575067260
+    second: Credit Scene Sydney_94
+  - first:
+      213: 2689715417366783111
+    second: Credit Scene Sydney_95
+  - first:
+      213: 4140641389968297169
+    second: Credit Scene Sydney_96
+  - first:
+      213: 3860245091360655219
+    second: Credit Scene Sydney_97
+  - first:
+      213: 6038249509309057150
+    second: Credit Scene Sydney_98
+  - first:
+      213: -8374397493664366483
+    second: Credit Scene Sydney_99
+  - first:
+      213: 5376455519056868612
+    second: Credit Scene Sydney_100
+  - first:
+      213: -1981603959921552606
+    second: Credit Scene Sydney_101
+  - first:
+      213: 4819629071151187942
+    second: Credit Scene Sydney_102
+  - first:
+      213: 1851265100824294980
+    second: Credit Scene Sydney_103
+  - first:
+      213: -1293866734797960388
+    second: Credit Scene Sydney_104
+  - first:
+      213: -4146648029539268110
+    second: Credit Scene Sydney_105
+  - first:
+      213: 9159099123151683289
+    second: Credit Scene Sydney_106
+  - first:
+      213: -403773167196894114
+    second: Credit Scene Sydney_107
+  - first:
+      213: 4027432137126068217
+    second: Credit Scene Sydney_108
+  - first:
+      213: -682182900147687780
+    second: Credit Scene Sydney_109
+  - first:
+      213: 6379167532826704700
+    second: Credit Scene Sydney_110
+  - first:
+      213: 653260025395485784
+    second: Credit Scene Sydney_111
+  - first:
+      213: -2580586640793967992
+    second: Credit Scene Sydney_112
+  - first:
+      213: -2409937199351634913
+    second: Credit Scene Sydney_113
+  - first:
+      213: -1117003285839880580
+    second: Credit Scene Sydney_114
+  - first:
+      213: 7242301155790948573
+    second: Credit Scene Sydney_115
+  - first:
+      213: 7624551854002721544
+    second: Credit Scene Sydney_116
+  - first:
+      213: -7370959764297839873
+    second: Credit Scene Sydney_117
+  - first:
+      213: 1190800975406831277
+    second: Credit Scene Sydney_118
+  - first:
+      213: 7917763130037887068
+    second: Credit Scene Sydney_119
+  - first:
+      213: 6826744068929931540
+    second: Credit Scene Sydney_120
+  - first:
+      213: -574936728601677176
+    second: Credit Scene Sydney_121
+  - first:
+      213: 5418708470852236604
+    second: Credit Scene Sydney_122
+  - first:
+      213: -8772226603016250042
+    second: Credit Scene Sydney_123
+  - first:
+      213: 1844938631919452415
+    second: Credit Scene Sydney_124
+  - first:
+      213: 2053328481353358285
+    second: Credit Scene Sydney_125
+  - first:
+      213: -2740886397037520007
+    second: Credit Scene Sydney_126
+  - first:
+      213: 4434581397035453550
+    second: Credit Scene Sydney_127
+  - first:
+      213: -593287655735174457
+    second: Credit Scene Sydney_128
+  - first:
+      213: -3293865216295481574
+    second: Credit Scene Sydney_129
+  - first:
+      213: 8501794983612412193
+    second: Credit Scene Sydney_130
+  - first:
+      213: 2945666700705716128
+    second: Credit Scene Sydney_131
+  - first:
+      213: -4749931607277056064
+    second: Credit Scene Sydney_132
+  - first:
+      213: -6861750031507093486
+    second: Credit Scene Sydney_133
+  - first:
+      213: 1613449828265251568
+    second: Credit Scene Sydney_134
+  - first:
+      213: -6269183493911748719
+    second: Credit Scene Sydney_135
+  - first:
+      213: -456392884514055897
+    second: Credit Scene Sydney_136
+  - first:
+      213: -3065356967817162925
+    second: Credit Scene Sydney_137
+  - first:
+      213: -2235935625710202466
+    second: Credit Scene Sydney_138
+  - first:
+      213: 1931656355076953196
+    second: Credit Scene Sydney_139
+  - first:
+      213: 4348902801810324983
+    second: Credit Scene Sydney_140
+  - first:
+      213: 5940083812715646721
+    second: Credit Scene Sydney_141
+  - first:
+      213: 5119577915053389569
+    second: Credit Scene Sydney_142
+  - first:
+      213: -3826728482742532155
+    second: Credit Scene Sydney_143
+  - first:
+      213: -6569095191197717313
+    second: Credit Scene Sydney_144
+  - first:
+      213: -5736128722321883444
+    second: Credit Scene Sydney_145
+  - first:
+      213: -3812587242386460111
+    second: Credit Scene Sydney_146
+  - first:
+      213: 8666689641698093576
+    second: Credit Scene Sydney_147
+  - first:
+      213: 4914766126175595606
+    second: Credit Scene Sydney_148
+  - first:
+      213: -6052601005307156105
+    second: Credit Scene Sydney_149
+  - first:
+      213: -5527770631051845418
+    second: Credit Scene Sydney_150
+  - first:
+      213: 8690112443572220925
+    second: Credit Scene Sydney_151
+  - first:
+      213: 8000623804267755177
+    second: Credit Scene Sydney_152
+  - first:
+      213: -949757314762492427
+    second: Credit Scene Sydney_153
+  - first:
+      213: -6764562514527774195
+    second: Credit Scene Sydney_154
+  - first:
+      213: 8055590416424987678
+    second: Credit Scene Sydney_155
+  - first:
+      213: -2305721661253546840
+    second: Credit Scene Sydney_156
+  - first:
+      213: 7140150786718000050
+    second: Credit Scene Sydney_157
+  - first:
+      213: 1229553802787987083
+    second: Credit Scene Sydney_158
+  - first:
+      213: 8774845340435001519
+    second: Credit Scene Sydney_159
+  - first:
+      213: 8437769839292507152
+    second: Credit Scene Sydney_160
+  - first:
+      213: -7219892653607059325
+    second: Credit Scene Sydney_161
+  - first:
+      213: -3050435611303928142
+    second: Credit Scene Sydney_162
+  - first:
+      213: -3115678341734476024
+    second: Credit Scene Sydney_163
+  - first:
+      213: 2558305923642048287
+    second: Credit Scene Sydney_164
+  - first:
+      213: 2345509129751213076
+    second: Credit Scene Sydney_165
+  - first:
+      213: -5541593791356860947
+    second: Credit Scene Sydney_166
+  - first:
+      213: 5516015120588612611
+    second: Credit Scene Sydney_167
+  - first:
+      213: 3716839218481829011
+    second: Credit Scene Sydney_168
+  - first:
+      213: -6697948411497332610
+    second: Credit Scene Sydney_169
+  - first:
+      213: 3586625260443389312
+    second: Credit Scene Sydney_170
+  - first:
+      213: -5891991055141499917
+    second: Credit Scene Sydney_171
+  - first:
+      213: -3296984122306443043
+    second: Credit Scene Sydney_172
+  - first:
+      213: 4317774665448678496
+    second: Credit Scene Sydney_173
+  - first:
+      213: -3110958769016392758
+    second: Credit Scene Sydney_174
+  - first:
+      213: 5476308728061159451
+    second: Credit Scene Sydney_175
+  - first:
+      213: 2037335394099238199
+    second: Credit Scene Sydney_176
+  - first:
+      213: -8828319980951921373
+    second: Credit Scene Sydney_177
+  - first:
+      213: -407415008165198200
+    second: Credit Scene Sydney_178
+  - first:
+      213: -1186644974839570109
+    second: Credit Scene Sydney_179
+  - first:
+      213: 6398001761832177689
+    second: Credit Scene Sydney_180
+  - first:
+      213: -3256255832362749824
+    second: Credit Scene Sydney_181
+  - first:
+      213: 2429753971427186308
+    second: Credit Scene Sydney_182
+  - first:
+      213: -5560667125141127869
+    second: Credit Scene Sydney_183
+  - first:
+      213: -5540694917752245024
+    second: Credit Scene Sydney_184
+  - first:
+      213: -2897494111253439642
+    second: Credit Scene Sydney_185
+  - first:
+      213: -3121877337094474185
+    second: Credit Scene Sydney_186
+  - first:
+      213: 6567993641165794405
+    second: Credit Scene Sydney_187
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Credit Scene Sydney_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f94832cb243acf0800000000000000
+      internalID: -242276579130695927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7bbb0bb63ffbba9428fbbad31c63e431
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Credit Scene Sydney_0: -242276579130695927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
