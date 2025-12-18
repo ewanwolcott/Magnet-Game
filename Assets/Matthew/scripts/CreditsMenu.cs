@@ -7,4 +7,12 @@ public class CreditsMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Title_Screne");
     }
+
+    private void Update()
+    {
+        if(Input.GetKeyUp(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Title_Screne");
+        }
+    }
 }
