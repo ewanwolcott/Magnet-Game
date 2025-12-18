@@ -8,6 +8,7 @@ public class Spotlight : MonoBehaviour
 {
     [SerializeField] Light2D l2d;
     [SerializeField] MagnetPlatform mp;
+    [SerializeField] AudioSource au;
     public int activated;
     public string type;
     public bool timed;
@@ -29,6 +30,7 @@ public class Spotlight : MonoBehaviour
     public void Activate()
     {
         activated = -activated;
+        au.Play();
         if(activated == 1)
         {
             l2d.enabled = true;
@@ -54,7 +56,6 @@ public class Spotlight : MonoBehaviour
                 mp.attractionForce = originAF;
             }
         }
-        
     }
     private IEnumerator SwitchTimeCount(float seconds)
     {
