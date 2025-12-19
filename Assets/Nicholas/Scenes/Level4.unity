@@ -14628,6 +14628,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Game Manager
       objectReference: {fileID: 0}
+    - target: {fileID: 9132296049728792809, guid: cc17f91e184f85143b8fb96c0b1d23e7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -206462,7 +206466,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4974947460525266958, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -33.80623
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6116488465309366476, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_AnchorMax.x
@@ -206478,7 +206482,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6116488465309366476, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 67.61244
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6418947593286063042, guid: 5caecd5dd410a8945a47a9be3cad8b20, type: 3}
       propertyPath: m_Pivot.x
