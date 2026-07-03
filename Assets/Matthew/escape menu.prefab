@@ -4045,10 +4045,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 4974947460525266958}
   m_HandleRect: {fileID: 6116488465309366476}
   m_Direction: 0
-  m_MinValue: -80
-  m_MaxValue: 0
+  m_MinValue: 0.001
+  m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: -20
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:

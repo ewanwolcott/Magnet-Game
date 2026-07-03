@@ -1,10 +1,11 @@
 using NUnit.Framework;
 using System.Collections.Generic;
+using System.Linq;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.UI;
-using TMPro;
-using System.Linq;
+using static UnityEngine.Rendering.DebugUI;
 
 public class SettingsMenu : MonoBehaviour
 {
@@ -26,6 +27,7 @@ public class SettingsMenu : MonoBehaviour
     {
         fullscreen.isOn = Screen.fullScreen;
 
+        // source of repeating resolutions bug
         resolutions = Screen.resolutions;
         resolutions = resolutions.Distinct().ToArray();
 
@@ -51,8 +53,9 @@ public class SettingsMenu : MonoBehaviour
 
         if (audioMixer.GetFloat("volume", out float volume))
         {
-            volumeSlider.value = volume;
+            volumeSlider.value = Mathf.Pow(10,volume/20);
         }
+
         graphics.value = QualitySettings.GetQualityLevel();
 
     }
@@ -65,7 +68,8 @@ public class SettingsMenu : MonoBehaviour
 
     public void SetVolume (float volume)
     {
-        audioMixer.SetFloat("volume", volume);
+        float decibelValue = Mathf.Log10(volume) * 20;
+        audioMixer.SetFloat("volume", decibelValue);
     }
 
     public void SetQuality (int qualityIndex)
