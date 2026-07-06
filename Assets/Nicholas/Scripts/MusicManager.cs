@@ -23,9 +23,13 @@ public class MusicManager : MonoBehaviour
         {
             audioSrc.Stop();
         }
+        else if (scene.name == "Credits")
+        {
+            audioSrc.Stop();
+        }
         else
         {
-            if(!audioSrc.isPlaying)
+            if (!audioSrc.isPlaying)
                 audioSrc.Play();
         }
     }
