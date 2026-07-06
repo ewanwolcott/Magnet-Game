@@ -29,7 +29,7 @@ public class SettingsMenu : MonoBehaviour
 
         // source of repeating resolutions bug
         resolutions = Screen.resolutions;
-        resolutions = resolutions.Distinct().ToArray();
+        resolutions = resolutions.GroupBy(r => new { r.width, r.height }).Select(g => g.First()).ToArray();
 
         resolutionDropdown.ClearOptions();
 
